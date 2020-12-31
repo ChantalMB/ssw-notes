@@ -1,0 +1,5275 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.051666666,54.83527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3136",
+    "FullName":"Grissell McCairtnay",
+    "Case_date":"19/5/1658",
+    "Res_settlement":"Kirkcudbright",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"20 Days before hallowmas she was at the shore gathering shellfish with Janet Corsan when they got lost and ended up in 'some eldridge place unknowin to hir where she saw a compne of weemen and one cold black uglie greusome man'."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/133",
+    "FullName":"Christian Saidler",
+    "Case_date":"12/11/1597",
+    "Res_settlement":"Blackhous",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"A cure involved drinking a mixture of wort and butter.  She was to bath in woodbine and roset hett - a combination of plants.  She took the blood of a red cock, and baked a bannock with it.  Then she took one of her patients shirt and dipped it into a well.  Saidler believed that one of her patients was being bewitched by Jonet Stewart, she tried to counteract the magic, failed and told her patient to beg for the forgiveness of Stewart.  When she couldn't do a cure, she sent for Levingstone for cures.  She used Quick-silver."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.069835,55.917035 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2798",
+    "FullName":"Margaret Stevensoun",
+    "Case_date":"17/7/1661",
+    "Res_settlement":"Newtoun",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"A group came into her house and she thougth them fairies, she recognized two of them."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.14673,55.9416 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/401",
+    "FullName":"Margaret Hutchison",
+    "Case_date":"18/9/1661",
+    "Res_settlement":"Duddingston",
+    "Sex":"Female",
+    "Age":"65",
+    "Occupation":"Unknown",
+    "FolkNotes":"A male victim suffering from pains like child birth and swelling went to a English doctor in Leith,  who declared that he was bewitched.  New charges in second restatement of trial.  Her master Andro Lauder and his wife asked if she had fallen out with anyone. Disease was taken off and moved to a cat, there was a cold wind when the cat died."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2949",
+    "FullName":"Magdalin Blair",
+    "Case_date":"22/3/1659",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"A woman found a lump of flesh in her bed in the shape of a hand and fell ill.  The same woman hired a woman from Dunblane to cure her with a drink.  A man cam to her for advice about the removal of a bewitchment.  She told the man to grip the suspected witch's coat tail and drink ale with her and ask for his health 3 times for God's sake.  She made bad predictions which came true."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/345",
+    "FullName":"Jonet Thomson",
+    "Case_date":"27/11/1660",
+    "Res_settlement":"Tranent",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"A woman took her to the Deane, a place called the stone well."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.068019,60.653839 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3012",
+    "FullName":"Elizabeth Ratter",
+    "Case_date":"9/6/1708",
+    "Res_settlement":"Calvister",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused appears to have advised a man to go to Sandness church, and sit in the dark and smoke some tobacco and he would be cured of a sickness, which he claimed had been caused by being given a banock by one of the Ratter sisters."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29,55.8218 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1746",
+    "FullName":"Margret Jackson",
+    "Case_date":"20/2/1677",
+    "Res_settlement":"Pollokshaws",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of attempted murder by roasting wax/clay figures in a fire and inserting pins in the image.  Wax images were found."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29,55.8218 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1748",
+    "FullName":"Jon Stewart",
+    "Case_date":"20/2/1677",
+    "Res_settlement":"Pollokshaws",
+    "Sex":"Male",
+    "Age":"16",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of attempted murder by roasting wax/clay figures in a fire and inserting pins into the images.  A wax image was found in his bedstraw with pins in it exactly were Maxwell felt pain."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29,55.8218 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1747",
+    "FullName":"Annabell Stewart",
+    "Case_date":"4/4/1677",
+    "Res_settlement":"Pollokshaws",
+    "Sex":"Female",
+    "Age":"14",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of attempted murder by roasting wax/clay figures in a fire and inserting pins. She claimed that Bessie Weir turned the image on the spit and chanted 'Sir George Maxwell, Sir George Maxwell' which they all repeated. She also gave the names that the Black man had called the others. The images were supposedly found in her mother's house and her brother's house.  She supposedly joined the devil at harvest time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.303161,55.821571 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1745",
+    "FullName":"Bessie Weir",
+    "Case_date":"20/2/1677",
+    "Res_settlement":"Polloktoun",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of attempted murder using wax/clay figures roasted in a fire.  Wax images were found.  She was the one in her group who spoke the ritual words and turned the wax image on a spit over a fire."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.924092,57.12002 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2162",
+    "FullName":"Issobell Oige",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Blelak",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of being able to cause storms by hanging a beetle from a thread and whispering words to it. Also accused of using special green thread to bewitch cloth so that it would sell at market. 2 other women had a share in the cloth and Oige promised them that it would get a good price at market. The women asked her how she knew and she then enchanted the cloth with the green thread, which had been used in a winding sheet. The cloth was sold at the market when other people's cloth was not."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.06622,55.8023 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/124",
+    "FullName":"Francis Stewart; Earl of Bothwell",
+    "Case_date":"10/8/1593",
+    "Res_settlement":"Bothwell",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of being involved in the use of wax images, poison and other means to kill King James.  The poison was made from flesh off the forehead of a newly calved foal and the skin of an adder.  Also accused of being part of incantations and triangle making to raise spirits to help him destroy the king."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68667,57.1281 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2157",
+    "FullName":"Issobel Forbes",
+    "Case_date":"25/4/1597",
+    "Res_settlement":"Glenmullocht",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of bewitching a man with a spindle, rok (distaff) and forl (NE version of quhorl or spinning movement)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.34621,57.236 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2119",
+    "FullName":"Isobel Cockie",
+    "Case_date":"19/2/1597",
+    "Res_settlement":"Kintore",
+    "Sex":"Female",
+    "Age":"32",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of casting 'cantryps' between a victim's doors after which he took ill. Accused of having left a many coloured cloth at a neighbour's house. When she burnt it (fearing it was witchcraft) the fire cracked and they thought the house would fall. Said to one man 'I shall gar thee forthinkit that thow hev territ my howss, I being fra ham' - he then took ill. Met at twelve midnight. Gave a man a drink of herbs, butter and saifroun (saffron?), which he was to drink 3 times. Also wrapped a knotted green thread about his body and oxsters, then put it in the fire. Another thread was left round his waist and if it broke or not to put it in the fire. Told a woman to go to south running water to wash him. She was paid  20 shillings and half a firlot of meal for this."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.315277777,57.64638889 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2362",
+    "FullName":"Margaret Murray",
+    "Case_date":"26/11/1646",
+    "Res_settlement":"Elgin",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of casting water on a plaid, which she then rubbed against a dog (her own dog?) who immediately died. Also accused of casting water and salt onto neighbour's property."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59.3 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3038",
+    "FullName":"Jonat Sinclair",
+    "Case_date":"6/4/1643",
+    "Res_settlement":"Westray",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of causing illness of a neighbour. Seen carrying a stoup of water while her hair was loose about her ears. The man also claimed to be troubled by a great number of cats - but does not suggest that Sinclair appeared in the shape of a cat."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3889174,55.684214 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1861",
+    "FullName":"Marioun Twedy",
+    "Case_date":"21/11/1649",
+    "Res_settlement":"Kirkurd",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of giving advice about cow giving blood. Told woman to take the blood three times withershins about her house then pour it into a hole in the ground."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.335278,59.136944 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2312",
+    "FullName":"Mareon Cumlaquoy",
+    "Case_date":"5/4/1643",
+    "Res_settlement":"Birsay",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of going to someone's house at sunrise, then went three times withershins round the fire. It was claimed this act caused a neighbour's bear (meal) to go rotten and his oats did not grow. Accused of hitting a cow three times with the skirt of her coat (?)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.692196,57.052254 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2154",
+    "FullName":"Margrat Og",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Mariewell",
+    "Sex":"Female",
+    "Age":"37",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of going to the burn of Bogloch on the first Monday of the quarter and taking some of the water and casting it over her shoulder. Also accused of collecting the dew off the grass with a blanket at the same time. This was testified by the minister as being a ceremony associated with witchcraft. Accused of cutting her heidleas (ribbon) into 9 pieces and burying them under the barn door of a neighbour. Accused of passing a knife 3 times over a cow while it was being bulled ?to ensure fertility. Laid a new calf on a piece of turf to met/measure it."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29,55.8218 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1749",
+    "FullName":"Jonet Mathie",
+    "Case_date":"20/2/1677",
+    "Res_settlement":"Pollokshaws",
+    "Sex":"Female",
+    "Age":"41",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having cast an illness by roasting of wax or clay images.  The wax image was found in a hole in the wall behind her fire.  She was also found with a wax image of a woman while in prison.  The authorities thought she had strangely escaped from the stocks while in prison."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.64761,57.1334 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3035",
+    "FullName":"Helene Rogie",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Finderak",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having caused her daughter-in-law's illness, which was made worse with some milk that was given to her by Rogie's own mother (M. Bane). Was seen to be carrying out some strange ritual of measuring some land and building a cairn of stones and also casting 'yerd and stane' over her shoulder. Erd and stane was a symbolic ritual associated with land ownership. Rogie did not answer the person who saw her carry out the ritual, who then took ill and died. An image of a man, made of soft lead (?wax/clay) was found in her purse."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.692196,57.052254 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3036",
+    "FullName":"Beatrix Robbie",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Mariewell",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having caused the death of a woman by giving her some mutton that Robbie and her mother (Margaret Og) had bewitched. Also accused of having carried out a special ritual (?protective) with her mother. They threw a knife 3 times over a cow while it was at the bull ?to ensure a fertile union."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.734,55.212 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1924",
+    "FullName":"Janet Fraser",
+    "Case_date":"25/11/1691",
+    "Res_settlement":"Closeburn- Dumfries and Galloway",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having pretended to 'a spirit of prophesy and revelation of things to come'. Confessed that she had visions, later confessed that she was possessed by an evil spirit and wanted ministers to commiserate with her miserable and deluded condition and that they would entreat God by earnest prayer that she may see the evil of her ways and obtain repentence."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3044",
+    "FullName":"Elspeth Culsetter",
+    "Case_date":"2/5/1644",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having spoken a curse, which then caused a man's horse to fall, break its bones and later die. Also claimed to know how to keep a man's health. Take a cog of water, put three straws in it and put it on the back of a sick cow. Then take some water and put it in the cow's mouth, then put an arm down the cow's throat, which will cure a cow. Also accused of throwing water three times for an evil purpose. Was able to locate lost/stolen money. Claimed that she predicted an outbreak of smallpox."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.009462,57.367176 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2173",
+    "FullName":"Gilbert Fidlar",
+    "Case_date":"21/11/1597",
+    "Res_settlement":"Auchmacoy",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of having used a pair of shoes to bewitch another person."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.754678,57.128122 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3108",
+    "FullName":"Elspet Strachund",
+    "Case_date":"4/1597",
+    "Res_settlement":"Warthill",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of healing a woman of the fevers with a sleeve and thread. Said to have brought a burning coal out her house at Hallowe'en and buried it in her yard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366666666,55.86666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2959",
+    "FullName":"John Lindsay",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Baretlock",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder and roasting the wax image was also used to kill and torment people.  One meeting to strangle a child took place at midnight in the kid's bedroom.  Apparently physical charmes made of bone, blood, and hair were found"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.46234,55.9005 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1773",
+    "FullName":"Agnes Naismith",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Erskine",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder and roasting the wax image was also used to kill and torment people.  One meeting to strangle a child took place at midnight in the kid's bedroom.  Apparently physical charmes made of bone, blood, and hair were found."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.464613,55.908428 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1778",
+    "FullName":"Katherine Campbell",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Bargarran",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder.  Roasting the wax image was also used to kill and torment people.  One meeting to strangle a child took place at midnight in the child's bedroom.  Apparently physical charms made of bone, blood, and hair were found."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.545491,55.902521 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1780",
+    "FullName":"James Lindsay",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Formakure",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder.  The wax image was roasted to kill and torment people.  One meeting to strangle a child took place at midnight in the kid's bedroom.  Apparently physical charms made of bone, blood, and hair were found"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366666666,55.86666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1777",
+    "FullName":"Margaret Lang",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Renfrew",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder. Roasting the wax image was also used to kill and torment people. One meeting to strangle a child took place at midnight in the child's bedroom. Apparently physical charms made of bone, blood, and hair were found.  She was also a known spirit medium who could allow people to talk with their dead relatives."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.545491,55.902521 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1781",
+    "FullName":"John Lindsay",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"Formakune",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of participating in 6 meetings where wax images with pins were used to enact murder. The wax image was roasted to kill and torment people.  One meeting to strangle a child took place at midnight in the kid's bedroom.  Apparently physical charms made of bone, blood, and hair were found"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7772,57.4357 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2168",
+    "FullName":"Meriorie Mutche",
+    "Case_date":"21/11/1597",
+    "Res_settlement":"Corstane",
+    "Sex":"Female",
+    "Age":"35",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of putting 'ane schot' in the side of one of her neighbours who contracted a sickness. Accused of using 'cantripis and incantationsis' to cause animals to die. Said to have turned herself three times backwards around a victim and touched the victim's hair with her hand, and afterwards the victim took ill."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,57.66666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/39",
+    "FullName":"Katherene Ross",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Ross and Cromarty",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of sending a man to the Egyptians for poison.  Made a picture of her victim out of butter."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68667,57.1281 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3095",
+    "FullName":"Agnes Fren",
+    "Case_date":"25/4/1597",
+    "Res_settlement":"Lumphanan",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of taking three hairs from her cow's tail, cutting it into pieces and putting them in the trough. Later her cow gave milk but her neighbour's did not. Accused of taking a calf under her arm to charm it.  She told a woman to bury clippings from the front hooves in her yard. Carried a newborn calf three times round its mother."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.407951,55.936452 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/400",
+    "FullName":"Jonet Miller",
+    "Case_date":"20/9/1661",
+    "Res_settlement":"Auld Liston",
+    "Sex":"Female",
+    "Age":"30",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of using orations to make Mungo Steill ill, but no description. Met the devil at dusk. Went down on her knees and cursed a man."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68667,57.1281 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3107",
+    "FullName":"James Og",
+    "Case_date":"4/1597",
+    "Res_settlement":"Lumphanan",
+    "Sex":"Male",
+    "Age":"30",
+    "Occupation":"Unknown",
+    "FolkNotes":"Accused of using rituals involving taking nine handfuls of earth from one man's rig and throwing on to his own. Accused of going withershins about a kiln in which he was drying corn. Said to have thrown water on the threshhold of a neighbour's house causing his servant to flee."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.068332,55.893642 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/409",
+    "FullName":"Janet Cock",
+    "Case_date":"26/11/1661",
+    "Res_settlement":"Dalkeith",
+    "Sex":"Female",
+    "Age":"49",
+    "Occupation":"Unknown",
+    "FolkNotes":"After a horse fell ill, 'a country man' said that if they put the horses' shoes in a red hot fire and took them out, the bewitcher would appear if it was witchcraft, then Janet Cock showed up without a pretext.  When Janet Cock appeared above a new mother and her child, the new mother said 'the spirit of grace be in this house' and the witches and devil disappeared."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.04951,55.867094 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/385",
+    "FullName":"Beatrix Leslie",
+    "Case_date":"3/8/1661",
+    "Res_settlement":"Blackcoat",
+    "Sex":"Female",
+    "Age":"84",
+    "Occupation":"Midwife",
+    "FolkNotes":"After a quarrel about Beatrix storing a pock in the house of William Young and Agnes his wife, they tried to appease her with ale. She drank but wouldn't speak. Later Beatrix ,as an apparition cat, attacked him, and their children were hurt in the coal pit.  She said that after meeting the devil she was frequently carried in her sleep to the company of many brave souls.  She practised definite rituals in midwifery. She stuck a baro knife between the bed and the straw and sprinkled salt and saying words."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.134,54.812 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/789",
+    "FullName":"Jean Thomson",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Borgue- Dumfries and Galloway",
+    "Sex":"Female",
+    "Age":"39",
+    "Occupation":"Unknown",
+    "FolkNotes":"After she gave birth she caused the midwife to use supersticious rites, used salt for the baptism, instructed eveyone to walk home speechless from the baptism, and burn hindberry leaves around the child."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.090555555,55.86944444 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/173",
+    "FullName":"Elizabeth Bathgate",
+    "Case_date":"4/6/1634",
+    "Res_settlement":"Eyemouth",
+    "Sex":"Female",
+    "Age":"57",
+    "Occupation":"Unknown",
+    "FolkNotes":"Alleged use of an enchanted egg (?changeling egg) to kill a child.  A bruise caused by Bathgate supposedly swelled into the shape of an egg and rotten egg-like substance flowed from the swelling.  Old Lady Cranston declaired that the bairn was betwitched.  She was seen dancing widdershins around a mill stone."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366666666,55.86666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2972",
+    "FullName":"Martha Sempell",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Renfrew",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Alleged use of image magic and wax images to murder children and adults.  Also to enact possessions."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.4972,55.8997 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2974",
+    "FullName":"Katherine Flowers",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Craigtoun Burn",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"alleged use of wax images for image magic to kill people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.477295,55.918211 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2975",
+    "FullName":"Margaret Shearer",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Erskine Green",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"alleged with a group that used image magic on several occassions.  A man brought her milk after having a fall out followed by threats from her and illnesses."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.570452,55.982801 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2976",
+    "FullName":"Margaret McKillope",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Bonneill",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly part of a group that used image magic to kill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.41667,55.8833 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2979",
+    "FullName":"John Stewart",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Bowhouse",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly part of a group that used image magic to kill people"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366666666,55.86666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2973",
+    "FullName":"Angus Forrester",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Renfrew",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly part of a group that used image magic to kill people including children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.389464,55.877277 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2980",
+    "FullName":"Margaret Cunninghame",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Carslops",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly part of a group that used image magic to kill people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.545491,55.902521 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2978",
+    "FullName":"William Miller",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Gatesyde of Fourmakure",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly part of a group that used image magic to kill."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.41667,55.8833 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1935",
+    "FullName":"Elizabeth Anderson",
+    "Case_date":"19/3/1697",
+    "Res_settlement":"Bowies",
+    "Sex":"Female",
+    "Age":"17",
+    "Occupation":"Unknown",
+    "FolkNotes":"Allegedly part of, and a witness to, a group of witches who used image magic to kill people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.419533,55.821263 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2977",
+    "FullName":"Margaret Ewing",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Stonybull",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"allegedly participated with a group in the use of image magic to kill people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.41667,55.8833 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1779",
+    "FullName":"John Reid",
+    "Case_date":"19/5/1697",
+    "Res_settlement":"Inchinnan",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Smith",
+    "FolkNotes":"Allegedly the objects were used as image magic to murder children and adults."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2911",
+    "FullName":"Rychard Grahame",
+    "Case_date":"24/2/1592",
+    "Res_settlement":"Haddington",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Also the head of a young calf, newly calfed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27,55.87 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/732",
+    "FullName":"Margaret Duncan",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Fife",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"appeared as an apparition to a guy in his bed chamber with 2 other witches the three also appeared as animals - a sow, a cat and an ape."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27,55.87 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/749",
+    "FullName":"Jannet Gentleman",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Fife",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"appeared as an apparition to a guy in his bed chamber with 2 other witches the three also appeared as animals - a sow, a cat and an ape."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.61302,57.341 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1825",
+    "FullName":"Margaret Ogg",
+    "Case_date":"12/3/1650",
+    "Res_settlement":"Insch",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Appears to have prayed to God and Our Lady, three times, to help labour pains."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.14673,55.9416 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/402",
+    "FullName":"Isobel Ramsay",
+    "Case_date":"23/8/1661",
+    "Res_settlement":"Wester Duddingston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Appeasement was tried but failed. Claimed by witness that a cat (?Ramsay) appeared 3 times in his house and that later 2 of his boys died and his wife was ill for 26 weeks."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.767259,56.768806 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1848",
+    "FullName":"Margaret Merchant",
+    "Case_date":"19/3/1650",
+    "Res_settlement":"Balfield of Cluthie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Blew in the face of one of her victims. Put divots of grass under her cogs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2159",
+    "FullName":"Ellen Gray",
+    "Case_date":"27/4/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Caused a man's wand to never lie down. He later died."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2158",
+    "FullName":"Isobell Strauthaquhin",
+    "Case_date":"21/3/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Claimed her mother learned her skill from an elf man who had lain with her. Used paper and threads to stop a woman's husband from beating her. Used coin and red wax wrapped in cloth, to ensure marriages. The talisman was to be worn about the neck and when the desired partner was seen it was to be used to strike the face. Turned a new born baby three times, baby then died. Cured oxen by tying them with a collar/bridle. When they were released the person who released them took ill and died. Accused of bewitching doors/thresholds. Later either the next person to touch the door or animal to cross over, took ill and died. Took dead people's bones and rinsed them in water. The water was then used to cure a sick person and the bones to be thrown into the River Don. The river 'rumlit as all the hills hed fallin thairin'. Took burning coal at Hallowe'en and buried it in her yard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8,56.11666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/294",
+    "FullName":"Margaret Tailyeor",
+    "Case_date":"3/9/1658",
+    "Res_settlement":"Alloa",
+    "Sex":"Female",
+    "Age":"28",
+    "Occupation":"Unknown",
+    "FolkNotes":"Claimed that Jonet Great, who was dead, came out with herself and others to a man's house, where they stole bread"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.944752,57.49675 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2160",
+    "FullName":"Agnes Wobster",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Ludquharn",
+    "Sex":"Female",
+    "Age":"41",
+    "Occupation":"Unknown",
+    "FolkNotes":"Claimed that she gave 'devilische potage' to a woman. She claimed it was brawn and jelly but the woman refused it otherwise she would have died. Witness claimed that she, or a devil in her likeness, appeared and vomited and spewed fyrie brunndes (brands) from her mouth. Accused of having gone three times to a stone, called the Curstane, at sunrise in May."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.668572,56.227187 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3059",
+    "FullName":"Issobell Watsonne",
+    "Case_date":"10/6/1590",
+    "Res_settlement":"Glendevon",
+    "Sex":"Female",
+    "Age":"23",
+    "Occupation":"Unknown",
+    "FolkNotes":"Claimed to have used rowan tree and a piece of a dead person's finger to cure the worm. Fairies offered her food but she refused it. Her husband took ill, then her baby was replaced with a changeling. She refused to feed it and threw it in the fire. She then promised to serve the 'fair folk' in return for her child. Said the saw Richie Graham at meetings with the 'fair folk' as well as several other people. While in prison she was visited by a man and asked to identify who had stolen his cow's milk. The man and the woman that Watsonne identified were questioned by the presbytery."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.285,56.184 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3082",
+    "FullName":"Andro McJohn",
+    "Case_date":"28/9/1603",
+    "Res_settlement":"Port of Menteith",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Claimed to heal the gut using water and butter."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8,56.11666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/293",
+    "FullName":"Jonet Black",
+    "Case_date":"23/6/1658",
+    "Res_settlement":"Alloa",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Confessed some story about having a moldiewort that she kept at home ?familiar but unlikely.  A woman saw a woman walking home from where they collected mussels, looked back and saw only a sow, and 'in the twinkling of an eye' she saw no sow but Jonet Black."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7026748,55.097111 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2410",
+    "FullName":"Marione Corsan",
+    "Case_date":"20/7/1659",
+    "Res_settlement":"Irongray Manse",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Confessed that she cured a neighbour of the falling sickness by laying her in a newly dug grave and cutting her belt in 9 pieces. The neighbour was better until the two fell out and the illness returned.  A woman dreamt she was flyting with Marion, when she woke she saw two cats.  She gripped a woman and said she accused her of calling her mother a witch, then she fell ill.  The woman sought appeasement and Marion said no.  The woman went to pray and heard Marion and her mother consulting with a third person she supposed to be the Devil. Marion wanted to cut her tongue out and the Devil said it couldn't be gotten.  The woman fell over screaming."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2148",
+    "FullName":"Christian Reid",
+    "Case_date":"15/4/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"Confessed that she offered to remove a bewitchment from a mill. Went to another accused person, Katherine Gerard, who told her to take sand from the north door of the mill and throw it over the wheels and stones in the name of God and Christonday. The mill then started to work again. Also confessed that she and Gerard had met and with a feather had cast the bewitchment on the mill earlier."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.073,56.231 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3247",
+    "FullName":"Donald McIllmichall",
+    "Case_date":"17/11/1677",
+    "Res_settlement":"Inveraray",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"Confessed that the devil told him about stolen goods. Said that he met the others on top of the hill on a Sabbath."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.171685,57.388774 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2141",
+    "FullName":"Marioun Grant",
+    "Case_date":"15/4/1597",
+    "Res_settlement":"Auchedlie",
+    "Sex":"Female",
+    "Age":"46",
+    "Occupation":"Unknown",
+    "FolkNotes":"Could charm a sword so that the owner would be protected from harm or injury. Healed using south running water and prayers. Told servant to get the south running water in silence. Incantations included reference to the Trinity and Christonday."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27,55.87 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/750",
+    "FullName":"Marion Ure",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Fife",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Danced as an apparition with 2 others in a guys bed chamber - they also appeared as a sow, a cat and an ape."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.068332,55.893642 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/380",
+    "FullName":"Elspet Graham",
+    "Case_date":"3/8/1661",
+    "Res_settlement":"Dalkeith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Definite fairy things here: Devil in green clothes and a witches meeting on Beltane night."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.728611111,56.21305556 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/831",
+    "FullName":"Betty (Beatrix) Laing",
+    "Case_date":"20/5/1709",
+    "Res_settlement":"Pittenweem",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Denied that she had used a wax image but said she had used water and coals to harm Morton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/793",
+    "FullName":"Jannet Corsan",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Denounced by Jonet Miller when she diagnosed an illness as being caused by Jannet Corsan after a quarrel and curse."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8,56.11666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/292",
+    "FullName":"Bessie Paton",
+    "Case_date":"3/9/1658",
+    "Res_settlement":"Alloa",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Described how Sybilla Drummond had told her to use salt and south running water for a woman in labour.  Accused of putting raw flesh under a threshold to kill animals.  She put a clout in a hole in a man's wall."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.105269,56.125931 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1045",
+    "FullName":"Steven Malcome",
+    "Case_date":"3/7/1628",
+    "Res_settlement":"Leckie",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Described several rituals for healing, which he claimed he had learned from the fairy folk. They had appeared to him in several forms at several different places. Used water (south running) to heal. Would charm sarks with water and words. Carried a sick child over a dyke to cure it. Told a father his child had taken a 'fray in the night'. Told to take it outside at 11 or 12 o'clock, lay his hands on the child and shake his drawn sword over it, as the fairies would not come when they saw a drawn sword. Identified where a woman got sick and told her to go there and seek her health in God's name."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/107",
+    "FullName":"Jonet Straton",
+    "Case_date":"19/9/1591",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Detailed description of preparation for the North Berwick meetings that she was supposedly at according to Napier's dittay.  Used a sark.  She was present when Agnes Sampson melted a toad over a fire and did something with the drippings as part of the attempt to wreck a man (they later found out it was the King).  The toad was then sent to Edinburgh to the women who would use it there.  Then Sampson called her master three times.  They then had the wax image, said words and walked widdershins with it."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/110",
+    "FullName":"Gelie Duncan",
+    "Case_date":"8/5/1591",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Detailed ritual with four joints tied to the feet of a cat and cast into the sea to raise a wind.  She handled the cloth and clay pictures."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2234",
+    "FullName":"Katherine Grant",
+    "Case_date":"25/11/1623",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Directed a woman to weigh her sick child and make a pile of barley of the same weight and feed the child meat for three days.  Moved a knife through water.  Burned a plate full of corn for healing.  Walked a cow backward into the sea, and the surf washed over it nine times."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.5,55.5 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2881",
+    "FullName":"Bessie Howie",
+    "Case_date":"3/10/1649",
+    "Res_settlement":"Crailing",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Entries record that she advised the use of the blood and feathers of a black hen as a healing charm. Note: black cocks were used to cure the falling sickness but there is no mention of the illness or symptoms she was treating."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.407951,55.936452 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/785",
+    "FullName":"Jonet Miller",
+    "Case_date":"10/4/1658",
+    "Res_settlement":"Old Liston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Foxtree leaves (foxglove) used to cure sickness. The consulter was told to take her mother to a certain place, wash her and use foxtree leaves, and leave the sickness at the place where she got it.  She diagnosed an illness as possibly related to the fairries having taken his tongue, if this was true she could be no help to him.  But he should try foxtree leaves and S. running water.  She gripped a child and told them to keep it close and away from the minister.  Diagnosed a child with 'Ferrie blast'.  She did a cure where the victim had to sit between three fires.  A ritual with smoke and fire to get a man out of a witch's grip.  Again told to keep it close especially from the minister.  Advised to keep the bible near for a cure for distempter.  She said a man became ill after digging up a thorn tree.  She diagnosed bewitchings as caused by Kirkcudbright and Dumfries witches (told the victims to get 3 stopings of straw from the witches' roof and burn them)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.054092,57.288207 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2150",
+    "FullName":"Helene Frasser",
+    "Case_date":"25/4/1597",
+    "Res_settlement":"Aikenshill",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"Frasser claimed that in order to povide for herself and her children she had pretended to have knowledge and skills, for which people consulted her. ?professional healer. Got paid in kind (salmon) for helping ensure a good catch. Told a man to eat sourrackis (wood sorrel) and lavery kale and to expose his chest to the air as birds flew by because it was 'werrie profitable to lousse his harte pypis, qihilk were closit'. Also spoke verses three times."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.93528,57.1267 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3096",
+    "FullName":"Kathrene Fernsche",
+    "Case_date":"10/4/1597",
+    "Res_settlement":"Logie Coldstone",
+    "Sex":"Female",
+    "Age":"33",
+    "Occupation":"Unknown",
+    "FolkNotes":"Gave a woman a 'tabblet' and a ring to use as a love magic talisman."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/136",
+    "FullName":"Bessie Aiken",
+    "Case_date":"15/8/1598",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Greed wood (fairies?).  Use of circles.  Use of red nettles to cure a pain in the loins.  Use of fresh butter as a salve.  Used salt water for cures.  Washed people.  She roasted four or five kittens and used the drippings to rub a sick person."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366666666,55.86666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1364",
+    "FullName":"Margaret Finlasoun",
+    "Case_date":"29/6/1650",
+    "Res_settlement":"Renfrew",
+    "Sex":"Female",
+    "Age":"35",
+    "Occupation":"Unknown",
+    "FolkNotes":"Green threads.  Someone found a pouch of thread and lead in their yard and assumed she had put it there to bewitch them.  Mention of appeasement with ale."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.547222222,55.94861111 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/172",
+    "FullName":"Thomas Carlipis",
+    "Case_date":"11/1/1633",
+    "Res_settlement":"Dumbarton",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"He designed two magical things, a love potion and a token 'taikynes' of love (a gold jewel with diamed and rubies that was enchanted to make the reciever give herself over to the giver)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1258",
+    "FullName":"John Philip",
+    "Case_date":"22/2/1631",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"He healed someone of the fever with the Queen of Fairy.  The belt had been put around the waist of a dead bairn before being used to cure a cow.  Used plaits of their hair.  'confessit he knew quhan weshing or charming [wes to be] useit and that weshing was not to be useit bot quhen there was bewitching.'  He was descibed as using 'Oriesounes' which means formal speech.  A later accusation against someone else detailed his cures - he used lax water from a south-running well in a white pitcher which was warmed on a fire.  The water was dumped outside where a cat ran across it, went mad and attacked a man standing nearby.  He taught them a charm for enhancing their crops."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,57.66666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/40",
+    "FullName":"Hector Munro",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Ross and Cromarty",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"He hired people to kill  his brother Robert Munro, the same person that Lady Fowlis was trying to kill."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05,55.93333333 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/137",
+    "FullName":"James Reid",
+    "Case_date":"21/7/1603",
+    "Res_settlement":"Musselburgh",
+    "Sex":"Male",
+    "Age":"38",
+    "Occupation":"Servant",
+    "FolkNotes":"He used south running water.  Used raw flesh with nine notches on it to bewitch someone, by putting it under their door (this could have been an unwitching ceremony?)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3426,55.7784 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1225",
+    "FullName":"John Smith",
+    "Case_date":"13/7/1631",
+    "Res_settlement":"Duns",
+    "Sex":"Male",
+    "Age":"64",
+    "Occupation":"Messenger",
+    "FolkNotes":"He was accused of consulting with the Devil to cure himself.  He was told to put his wet shirt in the doorway of a witch (presumably and unwitching strategy, the 'witch' in question being his supposed bewitcher). He was also accused of being part of the supposed conpiracy to kill Manderston by leaving a dead bird in his barn and a dead hand in his path.  He was also accused of stealing the shoe of Mowat and buring it as a way of harming him."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.011416666,55.76497222 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/169",
+    "FullName":"Jon Neill",
+    "Case_date":"2/4/1631",
+    "Res_settlement":"Tweedmouth",
+    "Sex":"Male",
+    "Age":"36",
+    "Occupation":"Farmer",
+    "FolkNotes":"He was also accused of being part of supposed conspiracy to kill Sir George Home of Manderston, using a dead enchanted foil (bird) and a dead man's hand."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.594676,55.567613 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/140",
+    "FullName":"Patrik Lowrie",
+    "Case_date":"23/7/1605",
+    "Res_settlement":"Halie",
+    "Sex":"Male",
+    "Age":"48",
+    "Occupation":"Unknown",
+    "FolkNotes":"He was presented with a hairbelt (in the shape of a Devil's claw) from the spirit woman Helena McBurnie.  He was accused of damaging cows milk on Beltane."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.073,56.231 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3130",
+    "FullName":"John Mylne",
+    "Case_date":"6/9/1658",
+    "Res_settlement":"Inveraray",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Healed by wrapping a woman up in a linen cloth and then burning it.  Also used powder"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2245",
+    "FullName":"Jonet Forsyth",
+    "Case_date":"11/11/1629",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Helped to save a ship, curing.  In order to save his sheep, a man was advised by Jonet to sprinkle  drops of blood over one of the sheep by a fire on Halloween. Not sure if Lauren means a sheep or ship?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/597",
+    "FullName":"Bessie Paine",
+    "Case_date":"1671",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her case is all about healing.  She seemed to specialise in healing children and infants.  She did many of her cures on the Sabbath and other holy days.  Diagnosed bewitchment.  A transcription of some of her case is in Larner et al.'s Sourcebook, p. 269.  Some of her cures invovled moving the sick child around and putting it in a cradle.  She supposedly left her 'witchcraft' on the hearth stone of her former house.  The next family that moved in suffered losses to their cattle.  She caused a cow to be put through a circle of green yarn for a cure."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17005,55.9801 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/132",
+    "FullName":"Christian Lewinstoun",
+    "Case_date":"12/11/1597",
+    "Res_settlement":"Leith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her daughter was taken away by the fairies and she learned witchcraft and taught it to Lewinstoun.  She found a bunch of bewitched items in their wall and cast them into a fire.  For knowledge of the sex of a baby, power received from the fairy-folk.  She was consulted by Saidler for cures.  She could heal named diseases"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/212",
+    "FullName":"Bessie Graham",
+    "Case_date":"21/1/1650",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her documents specify what she was paid for healing.  Described her healing as 'melt the belt' for a sick child. This is likely to be mett or metting the belt - which involved measuring a child round the middle or from head to toe as a form of predicting the outcome of an illness."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.825545,55.92742 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/434",
+    "FullName":"Agnes Williamsone",
+    "Case_date":"27/1/1662",
+    "Res_settlement":"Sammuelston",
+    "Sex":"Female",
+    "Age":"31",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her husband offered ale to one of her accusers."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.10485,56.8436 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/33",
+    "FullName":"Tibbie Smart",
+    "Case_date":"1586",
+    "Res_settlement":"Clova-Angus",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her purse was found by a man in town, and it contained pickles of quheit beir (wheat bere), great salt pieces, pieces of coal, thread, joint bones, and other things of various colours.  She used the shear and riddle (sieve) to get gear for people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89098,55.91 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/160",
+    "FullName":"Isobell Young",
+    "Case_date":"5/2/1629",
+    "Res_settlement":"East Barns",
+    "Sex":"Female",
+    "Age":"60",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her sons had to do penance for charming for conducting a ritual to cure their cattle with a special flask of water given to them by the mistress of Leyis.  She was accused of using a specific ritual that involved taking off her hat and walking around with it counter-clockwise (withershins)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3046",
+    "FullName":"Barbara Bowndie",
+    "Case_date":"3/4/1644",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Her statement said that she had been speechless for 1 day and people had said she had been taken by the fairies, she denied this. She denied that she was able to identify other witches."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0775,55.8817 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/142",
+    "FullName":"Bartie Patersoune",
+    "Case_date":"18/12/1607",
+    "Res_settlement":"Newbattle",
+    "Sex":"Male",
+    "Age":"61",
+    "Occupation":"Tasker",
+    "FolkNotes":"His patients had to repeat words.  He prescribed drinks and salves.  Patient had to go on his knees three nights in a row, three times a night to ask Jesus for his health.  He used Loch water from the Dow-Loche beside Drumlanrig.  Lots of charms in the name of the 'father, son and holy ghost'.  Pre-Reformation type religious ritual. The giving of remedies was done in the context of drinking ale at the pub, where a local woman was slandered for being a witch and causing an illness that Bartie healed.  He told the man to ask for his health from the woman.  JC26/5/2 has drawings of tables with Latin words laid out that I think Bartie used.  This document has lots of drawings and weird symbols, he could have been accused of learned magical practices.  He used letters and writings for healing.  A remedy for all women involved grinding almonds mixing them with egg whites and putting on their face.  For bleeding at the ???? -write letters on a knife and kill a beast. Lots of specific cures with specific letters and rituals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7,58.9 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2307",
+    "FullName":"William Scottie",
+    "Case_date":"7/2/1643",
+    "Res_settlement":"Black Holm",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"His son confessed that whenever his father prayed for ill for any people that he did not like, then it would come to pass. Went twice or thrice withershins about a house and later the woman took ill."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.965406,57.6732 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2172",
+    "FullName":"Andro Man",
+    "Case_date":"20/1/1598",
+    "Res_settlement":"Tarbruith",
+    "Sex":"Male",
+    "Age":"70",
+    "Occupation":"Unknown",
+    "FolkNotes":"Hit animals with a bird to cure them. Also black wool and salt as a remedy for diseases. Spoke 'orisonis sic of Sanct John'. Put stones in the 4 corners of a ward (piece of land) to protect the crops and good. Put a man 9 times forwards through a piece of yarn and transferred the sickness to a cat, which he put backwards through the same piece of yarn. Spoke the words Benedicite and Maikpeblis to summon and dismiss the Queen of Elves. Claimed if an iron plough was dipped in salmon water it would help stop the oxen from running away."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.929512,57.432774 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2268",
+    "FullName":"Issobell Malcolme",
+    "Case_date":"21/11/1644",
+    "Res_settlement":"Glass",
+    "Sex":"Female",
+    "Age":"45",
+    "Occupation":"Unknown",
+    "FolkNotes":"Initial charges in 1637 relate to charming and she confessed to helping women who were infertile but no details of her practices. Seems to have been no further action by presbytery in 1637. In the later charge she appears to have diagnosed that another woman's mother-in-law (goodame) had 'gotten wrong' from another neighbour's house, ie the cause of the harm. This seems to have backfired on her."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.03333,55.75 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1854",
+    "FullName":"Finwell Hyndman",
+    "Case_date":"19/3/1650",
+    "Res_settlement":"Kingarth",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"It was claimed that she disappeared for 24 hours every quarter. Later it was said that she went with the fairies at these times."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.427777777,57.59722222 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2895",
+    "FullName":"Johnne McNilland",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Dingwall",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Katherine Ross, sent Christiane Roiss to him to purchase some elfshot. No details from McNilland."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.41667,55.8833 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2970",
+    "FullName":"Jean Anderson",
+    "Case_date":"28/5/1697",
+    "Res_settlement":"Inchinnan",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Lots of image magic alleged to have been used for child murders."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.766666666,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1906",
+    "FullName":"John Macgregor",
+    "Case_date":"2/1/1677",
+    "Res_settlement":"Greenock",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Macgregor claimed that he cured a woman by putting a bead round her neck (?) and got paid for this."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.84422,56.1237 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2262",
+    "FullName":"Jonet Tailzour",
+    "Case_date":"11/11/1634",
+    "Res_settlement":"Cambus",
+    "Sex":"Female",
+    "Age":"55",
+    "Occupation":"Unknown",
+    "FolkNotes":"Many details about her healing rituals some of which used words in the form of prayers. Others involved complicated use of south running water, hair and nail trimmings, bannocks, and other objects."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.5,55.75 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1332",
+    "FullName":"Alisone Cairnes",
+    "Case_date":"8/7/1649",
+    "Res_settlement":"Berwickshire",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Margaret Dobson confessed that Alisone's heart had died and was stone."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.776134,55.873928 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/335",
+    "FullName":"Agnes Thomson",
+    "Case_date":"29/7/1661",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"63",
+    "Occupation":"Unknown",
+    "FolkNotes":"Meeting in a brown bush at midday 12 noon."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.866,54.942 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/798",
+    "FullName":"Helen Tait",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Borgue- Dumfries and Galloway",
+    "Sex":"Female",
+    "Age":"43",
+    "Occupation":"Unknown",
+    "FolkNotes":"Mention of her cat always being around a sick child, when they killed the cat the child recovered.  Someone found half burnt thorns at her heathstone.  Tait asked for a bannock and then asked for more and was refused because the woman didn't want to give her more than one thing at a time so as to prevent the 'witch' from having power over her."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.79042,55.9205 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1373",
+    "FullName":"Issobell Smith",
+    "Case_date":"7/6/1661",
+    "Res_settlement":"Over Bolton",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Mentioned a man in green clothes in her confession."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2122",
+    "FullName":"Bessie Thom",
+    "Case_date":"9/3/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Mentioned of sunrise in confession."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.14673,55.9416 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2830",
+    "FullName":"Elspeth Philipp",
+    "Case_date":"29/7/1661",
+    "Res_settlement":"Duddingston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"met the devil at oatseedtime (spring)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.6667,57.1181 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2161",
+    "FullName":"Jonat Lucas",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Pitmurchie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Most of the dittay refers to her use of threads (coloured and cut) to cure illness or to identify the cause and predict outcome. On one occasion she used the thread and told the woman she was not bewitched nor did she have the fevers. The same woman complained that Lucas had made the walls of her house shake, and that Lucas had made the devil appear to her and her husband in the shape of four legged beasts. They claimed that Lucas had told her husband if he had any property that was not his he was to return it to their rightful owners and the Devil would stop appearing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/882",
+    "FullName":"Jonet Andirsone",
+    "Case_date":"20/12/1621",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"mostly charming with shirts (sarks).  Could cure 'the waff of ane ill wind or foirspeiking'.  This would be equivalent to removing a bewitchment or a fairy illness.  She would be the kind of person someone would go to if they thought a witch was damaging them."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.797248,57.428106 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2314",
+    "FullName":"Janat Maconachie",
+    "Case_date":"25/10/1643",
+    "Res_settlement":"Strathbogie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"No details about her use of charms."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.924092,57.12002 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2155",
+    "FullName":"Thomas Ego",
+    "Case_date":"25/4/1597",
+    "Res_settlement":"Blelak",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7775,57.4702 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1248",
+    "FullName":"Margaret Ritchie",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Boddome",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7775,57.4702 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1249",
+    "FullName":"Margaret Buchan",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Boddome",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7775,57.4702 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1250",
+    "FullName":"Margaret Small",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Boddome",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.068019,60.653839 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3015",
+    "FullName":"Andrew Ratter",
+    "Case_date":"11/6/1708",
+    "Res_settlement":"Calvister",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0567,57.8118 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/45",
+    "FullName":"Christiane Roiss",
+    "Case_date":"28/11/1577",
+    "Res_settlement":"Canorth",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.068332,55.893642 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/377",
+    "FullName":"Janet Paistoun",
+    "Case_date":"10/9/1661",
+    "Res_settlement":"Dalkeith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8348,57.4161 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1245",
+    "FullName":"Unknown Cowie",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Fishertown of Bownes",
+    "Sex":"Unknown",
+    "Age":"Unknown",
+    "Occupation":"Brewster",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8348,57.4161 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1246",
+    "FullName":"Margaret Buchane",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Fishertown of Bownes",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8348,57.4161 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1247",
+    "FullName":"Margaret Gilchrist",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Fishertown of Bownes",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0711,57.1438 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1243",
+    "FullName":"Margaret Lumsden",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Fuitte",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0711,57.1438 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1241",
+    "FullName":"Mallie Cowper",
+    "Case_date":"20/4/1631",
+    "Res_settlement":"Fuitte",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3083",
+    "FullName":"Helen Nicoll",
+    "Case_date":"16/8/1615",
+    "Res_settlement":"Jushie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3084",
+    "FullName":"Issobell Atkine",
+    "Case_date":"16/8/1615",
+    "Res_settlement":"Jushie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.43109108,55.59289932 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3142",
+    "FullName":"Agnes Hutsone",
+    "Case_date":"16/12/1649",
+    "Res_settlement":"Maxwellheugh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.43109108,55.59289932 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3147",
+    "FullName":"Marion Steill",
+    "Case_date":"16/12/1649",
+    "Res_settlement":"Maxwellheugh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.40619,55.6878 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1817",
+    "FullName":"Jonet Coutts",
+    "Case_date":"4/1/1650",
+    "Res_settlement":"Netherude",
+    "Sex":"Female",
+    "Age":"51",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.966666666,54.81666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/784",
+    "FullName":"Katharine Clacherty",
+    "Case_date":"10/4/1658",
+    "Res_settlement":"Newlaw Croft",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.51667,55.5167 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2471",
+    "FullName":"Marion Maguate",
+    "Case_date":"20/7/1642",
+    "Res_settlement":"Nisbet",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.335278,59.136944 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1244",
+    "FullName":"Unknown Unknown",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0966,59.0677 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2306",
+    "FullName":"Jonet Thomesone",
+    "Case_date":"7/2/1643",
+    "Res_settlement":"Evie and Rendall",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1269",
+    "FullName":"Katherene Grieve",
+    "Case_date":"29/5/1633",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.20833,58.9858 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/127",
+    "FullName":"Alesoun Balfour",
+    "Case_date":"15/12/1594",
+    "Res_settlement":"Stenness",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5,58.41666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3157",
+    "FullName":"Unknown Graycoat",
+    "Case_date":"25/11/1655",
+    "Res_settlement":"Caithness",
+    "Sex":"Unknown",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0567,57.8118 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/46",
+    "FullName":"Marion Neyne McAlester",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Tain",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.315277777,57.64638889 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/813",
+    "FullName":"William Bannerman",
+    "Case_date":"6/4/1671",
+    "Res_settlement":"Elgin",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.315277777,57.64638889 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2876",
+    "FullName":"Marion Hardie",
+    "Case_date":"9/8/1630",
+    "Res_settlement":"Elgin",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7832,57.5091 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1251",
+    "FullName":"Margaret Whyte",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Peterhead",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7832,57.5091 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1252",
+    "FullName":"Margaret Fisher",
+    "Case_date":"8/9/1630",
+    "Res_settlement":"Peterhead",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3276",
+    "FullName":"Margaret Fraser",
+    "Case_date":"20/5/1633",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1242",
+    "FullName":"Marion Rodgie",
+    "Case_date":"20/4/1631",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2130",
+    "FullName":"Christen Michell",
+    "Case_date":"9/3/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"53",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15639,57.1128 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2195",
+    "FullName":"Isabell Smith",
+    "Case_date":"24/7/1607",
+    "Res_settlement":"Banchory-Devenick",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.767259,56.768806 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3077",
+    "FullName":"Cristal Ballath",
+    "Case_date":"2/5/1630",
+    "Res_settlement":"Menmuir",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.798888888,56.33888889 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2511",
+    "FullName":"Patrik Stewart",
+    "Case_date":"3/8/1598",
+    "Res_settlement":"St Andrews",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.973611111,56.18888889 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/877",
+    "FullName":"Jonnet Murriache",
+    "Case_date":"21/6/1615",
+    "Res_settlement":"Dunblane",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.98,56.157 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3060",
+    "FullName":"Marion McNab",
+    "Case_date":"18/9/1590",
+    "Res_settlement":"Lecropt",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.173,56.127 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3058",
+    "FullName":"Helen Mitchell",
+    "Case_date":"7/5/1650",
+    "Res_settlement":"Kippen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.12538,56.12557 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3068",
+    "FullName":"Issoble Garner",
+    "Case_date":"13/7/1649",
+    "Res_settlement":"Dysart",
+    "Sex":"Female",
+    "Age":"45",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3085",
+    "FullName":"Marion Mathie",
+    "Case_date":"21/2/1633",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.167369444,56.11073056 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2541",
+    "FullName":"Margaret Douglas",
+    "Case_date":"20/7/1650",
+    "Res_settlement":"Kirkcaldy",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.717,56.058 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1888",
+    "FullName":"Christian Watson",
+    "Case_date":"24/12/1663",
+    "Res_settlement":"North Berwick",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.717,56.058 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1889",
+    "FullName":"Adam Gillies",
+    "Case_date":"24/12/1663",
+    "Res_settlement":"North Berwick",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.961,55.9597 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/347",
+    "FullName":"Marioun Lynn",
+    "Case_date":"27/4/1659",
+    "Res_settlement":"Prestonpans",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Midwife",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/853",
+    "FullName":"Christian Grintoun",
+    "Case_date":"9/10/1612",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/78",
+    "FullName":"Katherine Gray",
+    "Case_date":"8/5/1591",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/108",
+    "FullName":"Donald Robinson",
+    "Case_date":"19/9/1591",
+    "Res_settlement":"Haddington",
+    "Sex":"Male",
+    "Age":"36",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/324",
+    "FullName":"Barbara Cochrane",
+    "Case_date":"27/4/1659",
+    "Res_settlement":"Tranent",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/346",
+    "FullName":"John Douglas",
+    "Case_date":"27/4/1659",
+    "Res_settlement":"Tranent",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/350",
+    "FullName":"Janet Crooks",
+    "Case_date":"28/5/1659",
+    "Res_settlement":"Tranent",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.6431,55.9024 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/884",
+    "FullName":"Agnes Knox",
+    "Case_date":"26/3/1617",
+    "Res_settlement":"Bathgate",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.068332,55.893642 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/365",
+    "FullName":"Jonet Watsone",
+    "Case_date":"18/9/1661",
+    "Res_settlement":"Dalkeith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27,55.87 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/156",
+    "FullName":"Margaret Wallace",
+    "Case_date":"22/3/1622",
+    "Res_settlement":"Fife",
+    "Sex":"Female",
+    "Age":"34",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27,55.87 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/905",
+    "FullName":"Christiane Grahame",
+    "Case_date":"27/10/1621",
+    "Res_settlement":"Fife",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.98249,55.8471 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1408",
+    "FullName":"Eupham Adair",
+    "Case_date":"8/12/1661",
+    "Res_settlement":"Crichton",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22,55.826 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2426",
+    "FullName":"Agnes Elphiston",
+    "Case_date":"12/1/1662",
+    "Res_settlement":"Penicuik",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22,55.826 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2427",
+    "FullName":"Christian Purdie",
+    "Case_date":"12/1/1662",
+    "Res_settlement":"Penicuik",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.5,55.75 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1334",
+    "FullName":"Margaret Dobson",
+    "Case_date":"8/7/1649",
+    "Res_settlement":"Berwickshire",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.625,55.7006 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1293",
+    "FullName":"Jean Lachlane",
+    "Case_date":"2/1/1645",
+    "Res_settlement":"Carnwath",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.625,55.7006 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1308",
+    "FullName":"Margaret Watsoun",
+    "Case_date":"31/12/1644",
+    "Res_settlement":"Carnwath",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3889174,55.684214 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1860",
+    "FullName":"Marioun Robiesone",
+    "Case_date":"21/11/1649",
+    "Res_settlement":"Kirkurd",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18,55.65 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1859",
+    "FullName":"Thomas Shanks",
+    "Case_date":"21/11/1649",
+    "Res_settlement":"Peebles",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Weaver",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18,55.65 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2856",
+    "FullName":"Bessie Rumond",
+    "Case_date":"6/4/1643",
+    "Res_settlement":"Peebles",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.416666666,55.58333333 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3139",
+    "FullName":"Issabell Gilpatrick",
+    "Case_date":"14/10/1649",
+    "Res_settlement":"Kelso",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.627777777,55.46388889 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2862",
+    "FullName":"Janet McAlexander",
+    "Case_date":"7/12/1618",
+    "Res_settlement":"Ayr",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.627777777,55.46388889 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3179",
+    "FullName":"Janet M'Allexander",
+    "Case_date":"1618",
+    "Res_settlement":"Ayr",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8918846,55.940283 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1322",
+    "FullName":"Agnes Hunter",
+    "Case_date":"21/6/1649",
+    "Res_settlement":"Painston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.915091,55.878235 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/616",
+    "FullName":"Marion Campbell",
+    "Case_date":"13/9/1678",
+    "Res_settlement":"Paiston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9,59.35 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2287",
+    "FullName":"Cristiane Leisk",
+    "Case_date":"21/4/1643",
+    "Res_settlement":"Papa Westray",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8918846,55.940283 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1324",
+    "FullName":"Issobell Murray",
+    "Case_date":"2/7/1649",
+    "Res_settlement":"Penston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89098,55.91 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1323",
+    "FullName":"Margaret Dicksone",
+    "Case_date":"2/7/1649",
+    "Res_settlement":"Penston",
+    "Sex":"Female",
+    "Age":"30",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.825545,55.92742 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/435",
+    "FullName":"James Welch",
+    "Case_date":"17/4/1662",
+    "Res_settlement":"Sammuelston",
+    "Sex":"Male",
+    "Age":"15",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3646,55.6937 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2388",
+    "FullName":"Issobell Alexander",
+    "Case_date":"11/1649",
+    "Res_settlement":"Scottistoun",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17005,55.9801 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3126",
+    "FullName":"Elizabeth Spae Wife",
+    "Case_date":"22/12/1643",
+    "Res_settlement":"South Leith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.143093,55.920836 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/371",
+    "FullName":"Agnes Loch",
+    "Case_date":"29/7/1661",
+    "Res_settlement":"Sunniesyd",
+    "Sex":"Female",
+    "Age":"60",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.14673,55.9416 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1954",
+    "FullName":"Helen Casse",
+    "Case_date":"23/8/1661",
+    "Res_settlement":"Wester Duddingston",
+    "Sex":"Female",
+    "Age":"35",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.14673,55.9416 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/398",
+    "FullName":"Jonet Ker",
+    "Case_date":"23/8/1661",
+    "Res_settlement":"Wester Duddingston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.766666666,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2968",
+    "FullName":"Jannet Rodgers",
+    "Case_date":"18/5/1697",
+    "Res_settlement":"Whythill",
+    "Sex":"Female",
+    "Age":"30",
+    "Occupation":"Unknown",
+    "FolkNotes":"None"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/103",
+    "FullName":"Barbara Napier",
+    "Case_date":"10/5/1591",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Not the typical love magic, this was done to get Dame Jeane Lyoune Lady Angus to love her, by which I think they mean to show her favour?  She paid Agnes Sampson a ring and a head scarf.  She was also accused of consulting Rychard Grahame as to whether or not the king would come home from Denmark.  She was acquitted of making wax images and of being at the North Berwick meeting.  Extended description of potions made out of strange materials."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8,56.11666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/297",
+    "FullName":"Margaret Duchill",
+    "Case_date":"23/6/1658",
+    "Res_settlement":"Alloa",
+    "Sex":"Female",
+    "Age":"45",
+    "Occupation":"Unknown",
+    "FolkNotes":"Often met the devil and others at 12 o'clock at night."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.522777777,55.99833333 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1770",
+    "FullName":"Catharin Mactargett",
+    "Case_date":"30/5/1688",
+    "Res_settlement":"Dunbar",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"On handsel Monday she came upon people playing pennystone and offered one man bread and cheese. He refused to take it initially, but then ate some and let the rest fall on the ground. His wife took ill later. Threw a hair tether into a neighbour's house before he became ill. Accused of using  water and a sign (movement) to cause the death of animals. Put bonnet on child's head the wrong way - later he died. Verbal charm spoken three times. After accusation that she had bewitched a woman the accused went to her and gave her onions which she told her to boil with a sheep's draught and then drink it. The woman recovered her health. Another cure involved an egg mixed with ale."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.054266,55.821875 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3246",
+    "FullName":"Margrat NcWilliam",
+    "Case_date":"7/5/1662",
+    "Res_settlement":"Corsmoire",
+    "Sex":"Female",
+    "Age":"56",
+    "Occupation":"Unknown",
+    "FolkNotes":"One report said she was seen to go round cows several times. Lifted up her curcheffe and cursed to cause harm. Said she knew a charm in Gaelic to cure the evil eye."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/85",
+    "FullName":"Bessie Broune",
+    "Case_date":"8/5/1591",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Others said she had been involved in using corpse and corpse powder at Halloween."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.961,55.9597 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/141",
+    "FullName":"Issobel Griersoune",
+    "Case_date":"10/3/1607",
+    "Res_settlement":"Prestonpans",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Peole made up with her over drinks, and a strange poor woman turned up asking for meat, and announced that the accuser was bewitched.  I read her as a community healer who diagnosed the situation, but the accuser was either hiding the fact that they hired her or hiding her identity."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.256401,55.433406 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/587",
+    "FullName":"Elspeth Thomsone",
+    "Case_date":"18/5/1671",
+    "Res_settlement":"Glashnoche",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"People were taking thatch from her roof, especially from above her door, to stop her harmful magic from working.  Interestingly, she was described as earnestly offering apples to someone who refused (presumbably out of fear that they were tainted).  Elspeth was suspected of becoming angry at this refusal and caused harm.  She interferred with milk churning, and injured infants of people she quarrelled with.  Neighbours testified that Janet Callen, executed for witchcraft in 1659, had left holes in Elspeth's hearth stone from when she lived there."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.875695,55.871933 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/63",
+    "FullName":"Agnes Sampsoune",
+    "Case_date":"28/1/1591",
+    "Res_settlement":"Nether Keith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Predicted someone's death.  She said the Devil was responsible for storms around Michaelmas and that they would continue.  Learned her healing from her father.  Gripping to cure.  She did lots of rituals with cats, passing them around and combining them with joints (dead people's).  They cast live cats into the sea, the cats swam out again.  Did a version of the Lord's Prayer, Ave Marias.  She was paid to heal very high status people (Lords, lairds, and their wives) from a large territory.  She prescribed an egg dipped in vinager, and one dipped in white wine, rubbed a patient with Aqua vitea.  Healed someone on Halloween.  She blessed a ring."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.566666666,59.25 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1268",
+    "FullName":"Marion Layland",
+    "Case_date":"30/5/1633",
+    "Res_settlement":"Sanday",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Protective magic used to increase people's fishing catch - she washed the unsuccessfull fisherman's cat's feet with the fishing bait water and threw the water out to sea after him.  She removed a bewitchment from someone.  To remove a forspeaking, she took a cup of water, put big salt into it and then spit into it."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5,60.4667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2327",
+    "FullName":"Marion Peebles",
+    "Case_date":"21/3/1644",
+    "Res_settlement":"Hildiswick",
+    "Sex":"Female",
+    "Age":"39",
+    "Occupation":"Unknown",
+    "FolkNotes":"Requested to remove illness after cursing woman. Gave her husband some silver to hold his peace, then sent the woman some cheese. Touched a man's leg three times, then touched the ground. Sent a bannock to a man to cure him. Accused of appearing under a fishing boat as a porpoise and causing it to overturn and sink. Four men drowned and she was requested to lay her hands on the dead bodies, which then bled proving that she had caused their death."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.116242,55.934142 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/162",
+    "FullName":"Katharine Oswald",
+    "Case_date":"13/11/ 1629",
+    "Res_settlement":"Nydrie Mylne",
+    "Sex":"Female",
+    "Age":"32",
+    "Occupation":"Unknown",
+    "FolkNotes":"Ritual involved plucking a nettle by the root, urinating on it and walking around it three times to cure a disease.  Her servant saw her light a fire between two doors and walk a new born calf over it.  A neighbour found her in a trance-like state laying on her floor by the fire, they heard a great din and mumbling."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2255",
+    "FullName":"Issobell Sinclair",
+    "Case_date":"28/2/1633",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Rituals for protecting cattle at Halloween. Using linen cloth and a hair of the beast.  Says she was with the pharie.  They gave her second sight to know if any fey body are in the house."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.009,57.719 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/49",
+    "FullName":"Agnes Roy",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Nigg Highland",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Said by Ross to have used wax/clay images to cause harm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.113425,55.877998 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1533",
+    "FullName":"Margaret NcLevin",
+    "Case_date":"14/2/1662",
+    "Res_settlement":"Knockankamis",
+    "Sex":"Female",
+    "Age":"29",
+    "Occupation":"Unknown",
+    "FolkNotes":"Said she knew charms to cure the evil eye, wristing or brising (?) and the glaick. These involved rituals and charms spoken in Gaelic. She used water, a curchif (handkerchief or scarf), herbs. To cure the glaik she would take the person (child) to the place where the herb grew, avoiding seeing any other person. Picks up the herb through a broch (brooch) takes it home and seiths (sains?/bless) it on the fire. Thsi she would give as a drink, three times."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.28544,55.9429 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2373",
+    "FullName":"Margaret Bell",
+    "Case_date":"19/8/1649",
+    "Res_settlement":"Corstorphine",
+    "Sex":"Female",
+    "Age":"43",
+    "Occupation":"Unknown",
+    "FolkNotes":"Said she met people who had died of the plague."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.192435,55.750186 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/170",
+    "FullName":"Alisone Nisbet",
+    "Case_date":"4/8/1632",
+    "Res_settlement":"Hilton",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Midwife",
+    "FolkNotes":"Scratching used against her!  She walked withershins, southwards, and three times, involved in helping relieve the pain of childbirth.  She tried to cure her brother using South running water and by burning his things.  She was seen walking on Samuelstone's land and therefore being a part of Lady Samuelston's plot to kill her husband.  She was accused of doing a midwifery ritual that got her into trouble.  To ease the pain after childbirth she brought in a big pan of water, threw salt on a fire and rubbed the patient.  She then dipped her fingers in the water and sprinkled it over the patient three times while uttering words.  The words spoken were 'banes to the fyre and soule to the Devill'.  St Peter's day was supposedly 29 June."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2123",
+    "FullName":"Issobel Barroun",
+    "Case_date":"9/3/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Seen at the Nether Mylne Burn on Ruidday. Gathered stones some of which she threw in front of her and others over her shoulder. The she took three sips of water from a dish and spat them back into the burn. The burn then stopped flowing to the mill and the mill stopped working."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.804057,57.133853 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3093",
+    "FullName":"Margret Reauch",
+    "Case_date":"17/4/1597",
+    "Res_settlement":"Woodfeidhill",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Seen hugging the corners of a man's house at dawn. He later took ill and died. Prophesied that a man who had taken on a property would lose it all. Seen to have thrown stones in water, which then appeared to dance. No details about what they were for. Seen to turn the bowl of her shears 3 times in the mouth of her sheep."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18,55.65 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2005",
+    "FullName":"Marion Watsone",
+    "Case_date":"6/11/1649",
+    "Res_settlement":"Peebles",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"Several spoken verses recorded by another accused witch, which she claimed to have been used by Watsone. Watsone did not mention this herself."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2120",
+    "FullName":"Johnnet Wischert",
+    "Case_date":"17/2/1597",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"44",
+    "Occupation":"Unknown",
+    "FolkNotes":"She cast cantrips or spells."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1605",
+    "FullName":"Jeane Craig",
+    "Case_date":"26/4/1649",
+    "Res_settlement":"Tranent",
+    "Sex":"Female",
+    "Age":"47",
+    "Occupation":"Unknown",
+    "FolkNotes":"She caused people to see many 'sichts' [sights] like ugly beasts and whelps.  She used a ritual to steal babies from her sister-in-law.  She rubbed her with three little enchanted stones after birth and she rubbed the child and the child died.  She did something with fox cure and south-running water.  She tried to enchant a man by causing his fire to take on the appearance of ugly cats with her likenss in the face.  And she cast lumps of raw flesh and blood around his floor.  She caused a man to have visions of wiched spirits riding out from under his bed.  It is unclear who scratched whom?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.4853,54.9579 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2453",
+    "FullName":"Jean Brown",
+    "Case_date":"3/9/1706",
+    "Res_settlement":"Penninghame-Wigtownshire",
+    "Sex":"Female",
+    "Age":"41",
+    "Occupation":"Servant",
+    "FolkNotes":"She confessed that they were good spirits, but did not refer to them as fairies, and they told her the world would be destroyed. Witnesses claimed she used charms, including a belt which had a tourner (a copper coin, not legal tender after 1707) and 3 pickles of wheat in it but she denied this. The spirits showed her a vision of the day of judgement, when the heavens were as thunder and fire."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.051666666,54.83527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/792",
+    "FullName":"Agnes (Bigis) Cairnes",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Borgue- Dumfries and Galloway",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"She confessed to being away with the Fferrie.  Had a great meeting with the not earthen folkis and not earthly talkis.  They had a fire and dancing and myrth.  When asked how she knew them she said they were 'fairer and beltin busked [beltane bound] and that they spak with ane eldridge voyce' [elvish voice].  She said the Devil came to her in prison and said he could strangle her like he did for Helen Harris.  She claimed that no one else could see the devil in the tolbooth because he had rubbed something in her eyes."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59.3 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2478",
+    "FullName":"Janet Drever",
+    "Case_date":"6/6/1615",
+    "Res_settlement":"Westray",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She confessed to fostering a bairn in the fairy hill of Westray.  She said she had dealings with the fairies for 26 years."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.81595,57.5765 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1558",
+    "FullName":"Issobell Gowdie",
+    "Case_date":"10/7/1662",
+    "Res_settlement":"Auldearn",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She confessed to mixing the body of an unchristened child with nail trimmings, grain and cole-wort and chopping it all up very small and used it to take away the fruit of a man's corn.  Described night flight and flying on straw and a broom.  Said she used shot to send a soul to heaven but the body remained on earth.  She met the Queen of Fairy in the downie-hill and was given meat.  In the fairy hill she saw elf-bulls.  Took away milk using a tether (could restore milk by cutting the tether).  Did all this in the Devil's name.  She made an image of the Laird of Park to destroy his children (with others).  Detailed description of how the image was made.  Nearly the same description given by Janet Braidheid of the wax image!  She confessed to shape-changing with others- she was a kea (jackdaw) and the others were a cat and a hare.  They tied a thread with three knots and did something widdershins.  They raised the wind with a wet cloth and a beetle and specific words.  Their spirits can raise the wind.  She linked the elves and the Devil by saying that the Devil gave elves instructions on how to use and make elfshot and that they fire the shot in the Devil's name.  Special ritual described for shape-changing.  Had different words for each animal (cat, hare, crow, horse.  She lists different verbal charms to use for healing various ailments (bone-shaw, fevers).  For her first 'voyage' she went to the plough lands and shot a man and they made a potion by boiling ingredients and saying words they learned from the Devil."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.431666666,56.39527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/935",
+    "FullName":"Issobell Haldane",
+    "Case_date":"11/8/1623",
+    "Res_settlement":"Perth",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She confessed to using special water.  She washed a sick child and asked for healing in the name of the father, son and holy ghost.  Then cast the bairns shirt in the burn.  She was nearly able to transfer the disease, but she spilt some water and it didn't work.  She was asked if she met fairies, she answered yes, 10 years prior.  She claimed that she stayed in a fairy hill for three days -Thursday till Sunday.  Met with a man with a grey beard.  She made 3 cakes, out of 9 handfuls of meal gotten from 9 different women.  She collected well water for healing. Sharg - tiny ill-thriving creature, probably a changeling."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07619,57.445274 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2174",
+    "FullName":"Jonat Leisk",
+    "Case_date":"21/11/1597",
+    "Res_settlement":"Fortriefurde",
+    "Sex":"Female",
+    "Age":"45",
+    "Occupation":"Unknown",
+    "FolkNotes":"She cursed one of her victims before the Ruidday. Plucked 3 goose feathers from her sister's geese and blew them off her hand - geese immediately died. Claimed that she took a slaughtered cockerel and fire from her old house to her new tack at Furde of Fortrie, which was claimed to be 2 special points of witchcraft. Accused of tying red thread to the tails of her cows. Accused of using a wax picture to harm one of her victims, who sweated and burned in a fever and could not quench his thirst."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.961,55.9597 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/344",
+    "FullName":"Helen Wilson",
+    "Case_date":"27/4/1659",
+    "Res_settlement":"Prestonpans",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She Devil changed shape from a rat into a man."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3102",
+    "FullName":"Jonet Carswell",
+    "Case_date":"18/7/1579",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She did a cure using 'plasteris and bathis of ???, and blak snailles upoun ane pece blak mantillone yairin' to cure a bad leg.  Also used bluid cress [watercress?], and a pece of blak clayt."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.970221,59.312496 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2288",
+    "FullName":"Helen Hunter",
+    "Case_date":"26/4/1643",
+    "Res_settlement":"Brugh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She did a diagnosis to determine whether or not milk was bewitched.  She read the bubbles in the milk."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.77702,55.6749 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1309",
+    "FullName":"Margaret Reid",
+    "Case_date":"14/11/1644",
+    "Res_settlement":"Lanark",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She did some compasses around babies accompanied with secret words, withershins with candles around the child birth bed. Used a green hesp at childbed ceremonies. Passed sick child three times round an oak post (tree)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.335278,59.136944 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/963",
+    "FullName":"Marable Couper",
+    "Case_date":"7/7/1624",
+    "Res_settlement":"North Side",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She had 'ane great bag lyk ane fwynes bledder' [A great bag like a faune's bladder] on her lap which she claimed was her guts which a woman had trampled out with her knees.  [Is this some reference to the shamanistic removal of organs?]  She seems to imply that she was being bewitched and was trying to find the witch who was plagueing her husband and her household.  Some tried to appease the person she believed to be the culprit with ale after she asked for alms and said the person would heal."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/317",
+    "FullName":"Bessie Stevenson",
+    "Case_date":"22/3/1659",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"49",
+    "Occupation":"Unknown",
+    "FolkNotes":"she knows a blasted person, which means a bewitched person 'by the gogling of their eyes and turning hither and tither to ather side.'  Washes their clothes in St. Ninian's well for healing.  This will either 'end them or mend them.'  She learned it from lady McFarlens daughter 24 years prior.  She transfers the disease if she meets anyone on the way back from the well.  Also layed two foxtree leaves under their head and middle.  She cures maw turning by leading people around an oak tree three times, repeating words.  For curing persons forespoken she recites words and takes some of the illness into herself.  For curing heart fires she uses a belt and two threads she rolls them and if the threads are on the top and the bottom the person has heart fires."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.86735,55.8544 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/694",
+    "FullName":"Marion Veitch",
+    "Case_date":"20/9/1678",
+    "Res_settlement":"Humbie",
+    "Sex":"Female",
+    "Age":"53",
+    "Occupation":"Unknown",
+    "FolkNotes":"She left her body at the kirk in Pencaitland when she went out as a corbie."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3277",
+    "FullName":"Anna Tait",
+    "Case_date":"6/1/1635",
+    "Res_settlement":"Haddington",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She murdered her husband with a drink made of foxtree leaves and tried to give her daughter an abortion (a drink of wine and salt) that backfired when her daughter died.  Her grief and guilt seem to lay behind her confession.  She confessed that the Devil told her how to make both drinks."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1278",
+    "FullName":"Katherine Cragie",
+    "Case_date":"22/7/1643",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She pronounced an illness was due to Kirk spirits.  She put hot stones on the threshold and then into water and used the water to wash a sick person to get rid of the Kirk spirits.  Did the ritual three times.  She was seen doing things around a loch.  Said she could get someone's husband home from sea through a storm.  She was accused of divining the future of when people would die and whether or not they would recover.  She also caused an illness by placing a bundle of grasses with a woman's spinning."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5,57.66666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/51",
+    "FullName":"Christian Smyth",
+    "Case_date":"22/7/1590",
+    "Res_settlement":"Ross and Cromarty",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She provided Lady Fowlis with elfshot."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.051666666,54.83527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/790",
+    "FullName":"Margaret Clerk",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Kirkcudbright",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She put a bannock in the wall to protect the cows.  Cured with a prayer and I think a fish?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.265907,58.827685 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2257",
+    "FullName":"Bessie Skebister",
+    "Case_date":"21/3/1633",
+    "Res_settlement":"Walls and Flotta",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She removed her curtch and shook her hair loose at a woman who has been ill ever since.  Used a coin to determine if a distant friend was well."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59.3 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2208",
+    "FullName":"Katherine Bigland",
+    "Case_date":"6/6/1615",
+    "Res_settlement":"Westray",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She rubbed a man with water and he saw visions of a 'ruche' sheep above his head.  She said it was just his illness leaving him.  She supposedly participated in some kind of ritual at the kirkyard of the Cross Kirk of Westray with her mother and a knife.  She also gripped someone's pulse as part of a healing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/213",
+    "FullName":"Janet Diksone",
+    "Case_date":"21/1/1650",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She told the parents of a sick child to send it to St. Jroganis well.  The whole thing failed and the child died. This is St Jergan's well at Islesteps."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2235",
+    "FullName":"Christian Gow",
+    "Case_date":"24/4/1624",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"She used a spoken charm to heal her master."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2210",
+    "FullName":"Catherine Caray",
+    "Case_date":"3/6/1616",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She used a thread and gave it in the name of the father, son and holy ghost and said 'bone to bone, synnew to synnew, and flesche to flesche, and bluid to bluid' to cure man or beast.  Took earth and stone from where a man was slain to cure ulcer.  Used stones to diagnos and cure spirit illnesses."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.95417,55.9447 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/323",
+    "FullName":"Cristian Cranstoun",
+    "Case_date":"28/4/1659",
+    "Res_settlement":"Tranent",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She used Foxtree leaves and told people to ask for their health from a suspected witch for God's sake. Used south running water"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2264",
+    "FullName":"Helen Isbuster",
+    "Case_date":"23/8/1635",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"She was accused of charming the 'meisses' [mice?] of Saba into going into a stack of corn where they all died.  She orchestrated a wedding against a man's will and then his wife wouldn't lay with him.  He consulted her mother and Helen who prescribed a ritual involving half a bannock bread placed under his left arm and water sprinkled in his bed.  It didn't work, the man reproved her so she damaged his goods.  She also gave a man a blue thread for protection.  He also seems to have performed a diagnosis and unbewitching ritual that the dittay calls healing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.123,57.151 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/800",
+    "FullName":"Jean Rosse",
+    "Case_date":"5/1671",
+    "Res_settlement":"Posbeg",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was accused of healing and casting rats and other animals and causing other beasts to suddenly die. [In the circuit court books this was described only as charming, in the Aberdeen Roll she was charged with witchcraft and charming - shows the fuzzy distinction between the two.]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/799",
+    "FullName":"Katharine Russell",
+    "Case_date":"5/1671",
+    "Res_settlement":"Posbeg",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was accused of healing and casting rats and other animals and causing other beasts to suddenly die. [In the circuit court books this was described only as charming, in the Aberdeen Roll she was charged with witchcraft and charming - shows the fuzzy distinction between the two.]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1,57.15 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1727",
+    "FullName":"Margaret Abernethy",
+    "Case_date":"15/7/1669",
+    "Res_settlement":"Aberdeen",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was accused of providing raw enchanted flesh so that Geillis Burnet could kill her husband.  She was supposedly paid a six pence and a pint of ale."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.16188,55.9144 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/230",
+    "FullName":"Agnes Nemo",
+    "Case_date":"6/7/1658",
+    "Res_settlement":"The house of the Moore",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was caught using two shears and she cursed the man who found her."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9882,56.415 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/34",
+    "FullName":"Alesoun Pierson",
+    "Case_date":"28/5/1588",
+    "Res_settlement":"Byrehill",
+    "Sex":"Female",
+    "Age":"41",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was cured by this Mr. William sympson 'the witch', Mr. Sympson made a statement about all the illnesses of the Archbishop of St. Andrews.  Said she had friends in the court of the fairies who were blood relations.  She couldn't recall how long she had spent with the fairies.  The good neighbours hold her under God. She claimed to go to St. Andrews to heal people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3142",
+    "FullName":"Jonet Kennedy",
+    "Case_date":"10/8/1593",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"she was involved with the picture of wax that Agnes Sampson used.  They melted it"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.433333333,55.85 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/737",
+    "FullName":"Margaret Alexander",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Paisley",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was offered a dollar for appeasement.  Lots of muttering and curses."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.3524,55.8247 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1744",
+    "FullName":"Marjory Craig",
+    "Case_date":"20/2/1677",
+    "Res_settlement":"Pollok",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was part of the rituals to kill Maxwell of Pollock with wax images.  Doesn't say why she hated him."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.59583333,55.57916667 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2890",
+    "FullName":"Jonet Hunter",
+    "Case_date":"23/7/1605",
+    "Res_settlement":"Dundonald",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was presented with a hairbelt (in the shape of a Devil's claw) from the spirit woman Helena McBurnie according to P. Lowrie, and involved in meetings at Halloween and Whitsunday."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.6249,55.5511 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/138",
+    "FullName":"Margaret Duncane",
+    "Case_date":"23/7/1605",
+    "Res_settlement":"Lomes",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was presented with a hairbelt (in the shape of a Devil's claw) from the spirit woman Helena McBurnie according to P. Lowrie."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.594676,55.567613 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/139",
+    "FullName":"Katherine McTeir",
+    "Case_date":"20/5/1604",
+    "Res_settlement":"Halie",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Servant",
+    "FolkNotes":"She was presented with a hairbelt (in the shape of a Devil's claw) from the spirit woman Helena McBurnie and used part of a corpse in a ritual, according to P. Lowrie.  Supposedly used a stone for her 'adois'  She provided herbs to combat P. Lowrie's bewitching.  Carried out rituals at Hallowe'en and Whitsun."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.73287136,55.7005 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/29",
+    "FullName":"Bessie Dunlop",
+    "Case_date":"8/11/1576",
+    "Res_settlement":"Lyne",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"She was told to be silent about her visit to the fairies.  There were 12 of them, 8 women and 4 men.  Indication of how she was questioned to get accomplices and more information.  The fairies wanted her to go with them.  Loads of information about fairies.  Specific roots and herbs were mentioned, including ginger, liquorice, clover, and anis seed.  Thom gave her a green thread to help with child birth curing but she lost it.  They asked if she supported the Reformed faith, she said that Thom said it was not good, but the old faith needed fixing.  12:00 hour of the day was Thom's most common time to appear.  The Queen of Elphan commanded him to wait upon her.  She was asked specifically if she met him by lochs and water side, she said only once."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.610555555,55.97527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2843",
+    "FullName":"Elspit Scot",
+    "Case_date":"31/12/1612",
+    "Res_settlement":"Linlithgow",
+    "Sex":"Female",
+    "Age":"30",
+    "Occupation":"Unknown",
+    "FolkNotes":"South running water used, no words to be spoken on the way from collecting water or power of healing would be lost. Said that her own child had been taken by the fairies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.548502,56.170297 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/179",
+    "FullName":"Johnne Brughe",
+    "Case_date":"29/11/1643",
+    "Res_settlement":"Fossoway",
+    "Sex":"Male",
+    "Age":"56",
+    "Occupation":"Healer",
+    "FolkNotes":"South running water, dug up corpses and used the flesh to harm people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7026748,55.097111 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/53",
+    "FullName":"Janet Clark",
+    "Case_date":"17/8/1590",
+    "Res_settlement":"Blalach",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"South-running well.  She supposedly had a kist full of men's secret members made of clay."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.566666666,59.25 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2263",
+    "FullName":"Margaret Sandieson",
+    "Case_date":"13/9/1635",
+    "Res_settlement":"Isle of Sanday",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Sprinkled water on someone's head three times for a cure.  She touched a woman's head with three small stones three times for a cure."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.817418,55.962707 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/726",
+    "FullName":"Elspeth Wood",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Over Gurroch",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"supposedly killed a minister's child and tormented as if they were being strangled."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.426468,55.923291 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/104",
+    "FullName":"Ewfame Makcalzene",
+    "Case_date":"15/6/1591",
+    "Res_settlement":"Cliftonhall",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"The bowl was described as a great bikar that was put around her head and neck to inaugurate her into the craft (perhaps the impetus for the cauldron myths?).  Description of a bewitching using materials left in a window (magical use of boundaries).  She was accused of using her servants to deliver materials to and from other witches, and those servants seemed to have betrayed her in court by testifying against her."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.33333,55.9167 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1813",
+    "FullName":"Katherin Gibb",
+    "Case_date":"22/7/1649",
+    "Res_settlement":"Gogar",
+    "Sex":"Female",
+    "Age":"45",
+    "Occupation":"Unknown",
+    "FolkNotes":"The devil met a group of people when they were ploughing and promised them a good crop that year."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.611978,60.478228 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2220",
+    "FullName":"Katherine Jones dochter",
+    "Case_date":"2/10/1616",
+    "Res_settlement":"Stenhous",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"The devil supposedly came to her on the calendar custom days listed.  The Sea nut is possibly a bean or seed that washed ashore and the hook is called a 'Cleik'  The nut brought good luck if carried and the ring of the cleik helped the profit of the milk if it was used for milking.  She saw the trowis (trolls) rise out of the kirk yard at Hildiswick and Holiecorss (Holycross) Kirk especially at Yule. Trow is the Orkney and Shetland dialect term for fairies or little people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2638",
+    "FullName":"Jonet Barker",
+    "Case_date":"29/12/1643",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Shop-keeper",
+    "FolkNotes":"The Devil told her to heal a man by laying a black caird under his door.  The Devil supplied the black caird.  She said that she didn't keep the kirk regularly and that was why the Devil came to her."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.198888888,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/576",
+    "FullName":"Jean Weir",
+    "Case_date":"6/4/1670",
+    "Res_settlement":"Edinburgh",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"School teacher",
+    "FolkNotes":"The spirit woman offered to go to the queen of fairy to get help for Jean.  After receiving help from the woman who went to talk to the queen of fairy Jean was spinning and found a lot of money."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2689,60.3038 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2219",
+    "FullName":"Barbara Scord",
+    "Case_date":"2/10/1616",
+    "Res_settlement":"Shetland Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"The thread was used to cure sleeplessness - the man was to wear it around his head for nine nights and then burn it. She did crosses and conjurations over the thread. He also said he had trouble around the moons. In order to save the profit of someone's milk she told them to stir their milk with the finger bone of a man (that she had provided). This was after she did a test to determine if someone was trying to steal the profit of her client's milk."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.433333333,55.85 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1339",
+    "FullName":"Mauld Gauld",
+    "Case_date":"15/10/1649",
+    "Res_settlement":"Briggait",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"The victim said he wanted to drink with the supect and then he did drink with suspect and he got better.  Her servant said that she had a 'piece of clay formed be hir to the liknes of a mans priwie members doing quhat is abominable to think or speik of'.  This was tried in front of the kirk session.  She was witnessed spinning a sieve."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.12538,56.12557 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2540",
+    "FullName":"Margaret Bannantyne",
+    "Case_date":"4/10/1638",
+    "Res_settlement":"Dysart",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"The witness reported that she had heard a woman advise Margaret to sew something in her bodice and then she would want for nothing. No details about what was used."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.88333,55.9667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/147",
+    "FullName":"Beigis Tod",
+    "Case_date":"27/5/1608",
+    "Res_settlement":"Longniddry",
+    "Sex":"Female",
+    "Age":"39",
+    "Occupation":"Unknown",
+    "FolkNotes":"They did rituals with a cat and named it Margaret."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.42853569740972,56.4110278331234 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1025",
+    "FullName":"Bessie Wright",
+    "Case_date":"22/10/1628",
+    "Res_settlement":"Querrell Mill",
+    "Sex":"Female",
+    "Age":"42",
+    "Occupation":"Unknown",
+    "FolkNotes":"This case has some interesting details about the herbs and other ingredients that she used in salves. These included rippell grasse (ripple grass or robwort plantain), waffron leaf(?), plantain feather(?), finglie (?finkle or fennel), and hyssop(?). She denied she had used foxtree leaves (foxglove). She also claimed that she had her skill from the possession of a book, that had belonged to her father and grandfather. She said it was a 1000 years old but as she could not read it her son, Adam Bell, would read out bits to her. The book was taken from her during the ministry of William Couper who was minister between 1595 and 1612."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.03333,55.75 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1545",
+    "FullName":"Issobell More McKaw",
+    "Case_date":"26/3/1662",
+    "Res_settlement":"Kingarth",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"This involved a group of people who confessed to turning the riddle - sieve. McKaw said it was to get some silver for her mother although it is not clear if this silver had been lost. Kirk session were troubled by the case but did not indicate it was witchcraft."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.333202,55.919238 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1774",
+    "FullName":"Margaret Fulton",
+    "Case_date":"10/6/1697",
+    "Res_settlement":"East Kilpatrick",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Threw a charm of stone and blood in a sack into a river as sympathetic magic to cause a drowning. Accused of participating in 6 meetings where wax images with pins were used to cause murder. Roasting the wax image was also used to kill and torment people. One meeting to strangle a child took place at midnight in the kid's bedroom. Apparently physical charms made of bone, blood, and hair were found"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9369,56.1166 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/316",
+    "FullName":"Issobell Bennet",
+    "Case_date":"22/3/1659",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"To cure blasted people, washed them with water from the hollow ground after an ebb in the sea with a quantity of meal and straw placed in four corners of the bed, and she used a horseshoe, a hook and a piece of raw flesh.  She said father, son and holy ghost three times.  To cure maw turned she walked people around an oak pole three times, said some words to God and St. Brisbane.  For curing someone that is wronged by an other at variance with them, go them and crave your health back (basically curing the quarrel, words, misfortune illnesses).  For keeping folks from harm, bury a quick modiewort  in a box under the outside of a threshold."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/210",
+    "FullName":"Thomas Paton",
+    "Case_date":"21/1/1650",
+    "Res_settlement":"Dumfries",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Told a man to seek the moulles (chilblaines?) of a black cow.  He supposedly spoke words of healing that caused a whole house and bed to shake the sick people recovered."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.19,57.93 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2140",
+    "FullName":"Issobell Robie",
+    "Case_date":"6/4/1597",
+    "Res_settlement":"Ardmair",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Told her guidman (husband) to walk 3 times withershins round any cows before he bought them, ?to protect or identify the best one. Offered a beggar some milk, which he refused. When asked why he did not take it replied that she had milk from her own and other people's cows, including a forrow cow - a cow not in calf."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.616666666,55.06666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/217",
+    "FullName":"Elizabeth Maxwell",
+    "Case_date":"21/1/1650",
+    "Res_settlement":"Dumfries",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Took a rowan over her head to cure a sickness.  Asked God for her daughter's health.  A man saw her riding a cat and leading two in her hands.  He became ill after he witnessed this."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1784,55.9459 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/183",
+    "FullName":"Agnes Finnie",
+    "Case_date":"6/3/1645",
+    "Res_settlement":"Potterrow",
+    "Sex":"Female",
+    "Age":"48",
+    "Occupation":"Shop-keeper",
+    "FolkNotes":"Tried to remove witches' malice with a gift of ale.  Against defence saying prayer is not demonic, it was argued that it could be if it was used as a devilish charm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2212",
+    "FullName":"Elspeth Reoch",
+    "Case_date":"22/3/1616",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Two men she met at a loch told her to take an egg and roast it and use the sweat of it to wash her hands, and then to rub her eyes with unwashed hands to get the sight of anything she should want to know.  [Possible allusion to one of the miracles of Christ when he spits in the dirt and washes a blind man's eyes and he can see?].  The black man at the loch turned out to be a fairy man who was also a dead kinsmen of hers.  He came to her when she was in childbirth.  She also seemed to know things abour herbs (specifically Merefow (?) to cause a nose bleed)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.979,55.9547 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/59",
+    "FullName":"John Fean",
+    "Case_date":"26/12/1590",
+    "Res_settlement":"Haddington",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"School teacher",
+    "FolkNotes":"Use of cats to raise winds to sink ships.  They took an object that looked like a fute-ball and cast it in the see to raise 'ane vapour and ane reik' to send the King's ship off.  He blew on a woman's hand to open a lock.  He lit a horse with candles, a magical thing.  He carried the mole's feet around as a talisman so that he wouldn't lack silver.  He walked withershins.  He could predict the future of when and how people would die if he knew their birth day.  Night flying.  Newes From Scotland, describes a foiled love magic attempt."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.41667,55.8833 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/2971",
+    "FullName":"Annabel Reid",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Inchinnan",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Use of charmes to make a tormented girl's hands swell."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.646821,55.884766 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/739",
+    "FullName":"Jean Woodrow",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Bridge end",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a 'charme' meaning an object to cure someone."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8621,55.6918 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3078",
+    "FullName":"Catherine Watson",
+    "Case_date":"18/7/1630",
+    "Res_settlement":"Stow",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a belt as part of a healing ritual (met the belt)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1793,55.9517 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/131",
+    "FullName":"Jonet Stewart",
+    "Case_date":"12/11/1597",
+    "Res_settlement":"Cannongate",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a shirt in south running water for a cure, then she had a smith put a red hot iron in the water with the shirt.  She used a garland of green woodbyne for a cure which she cut into nine pieces and cast into a fire."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.70614,56.2932 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1094",
+    "FullName":"Alexander Drummond",
+    "Case_date":"11/7/1629",
+    "Res_settlement":"Auchterarder",
+    "Sex":"Male",
+    "Age":"75",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a sick man's shirt for diagnosis of bewitchment.  Healing for money.  Used part of a root under a man's head for failed healing attempt.  Told some sick people to seek their health from the suspected bewitcher 'for God's sake'.  He performed an unauthorised exorcism, he said he would save the boy's soul.  He gave the boy a leather pouch filled with rusty nail, bits of stick and roots.  Used south running water, powders to make drinks.  Told people not to eat meat on Fridays.  Said to use water where 'ane Christian King had ridden over' to wash a shirt for healing.  He kept a book of cures and had 3 special stones called 'slake stanes'.  Drummond called his healing words 'holy orations'."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.833333333,55.53333333 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2194",
+    "FullName":"Margaret Scot",
+    "Case_date":"18/8/1609",
+    "Res_settlement":"Selkirk",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a spoken prayer to stem bleeding."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.335278,59.136944 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3054",
+    "FullName":"Kathareen Manson",
+    "Case_date":"3/4/1665",
+    "Res_settlement":"Birsay",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used a wresting thread to cure a wrested cow.  Was paid 40 pennies for a cure.  Made a charm out of something like ground salt put into a cloute and put onto a cow's back.  A blue thread around a man's waist.  Worm grass for curing the worm.  Fasting and meat eating."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.086,57.366 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2153",
+    "FullName":"Jonat Davidsone",
+    "Case_date":"29/8/1598",
+    "Res_settlement":"Ellon",
+    "Sex":"Female",
+    "Age":"55",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used cloth of various colours. I think she used nail trimmings rather than iron nails as it refers to 'peces of nails'. Claimed to have had a piece of paper on which there was writing and that a neighbour took ill and died after picking it up."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.852752,57.580476 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1474",
+    "FullName":"Jonet Braidheid",
+    "Case_date":"10/7/1662",
+    "Res_settlement":"Belmakeith",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used dog flesh and sheep flesh to make drugs (enchanted charms).  They left cooked flesh bits sprinkled all over the gates and property of two Lairds from the area (Park and Lochloy) in an attempt to destroy them and their posterity.  They also made a picture of clay of the Laird of Park.  They prayed to the Devil and burned the image."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89098,55.91 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2632",
+    "FullName":"Margaret Dicksone",
+    "Case_date":"25/4/1643",
+    "Res_settlement":"Pencaitland",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used eggs and meal to cure a changeling child. In another incident used fire also to identify changeling who was 'ane hundred years old'."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.563244,55.68036 ]
+    },
+    "properties": {
+    "CaseRef":"C/LA/3278",
+    "FullName":"Bessie Johnston",
+    "Case_date":"26/2/1635",
+    "Res_settlement":"Gordon- Scottish Borders",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"used foxtree leaves to kill a woman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.766666666,55.95 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/745",
+    "FullName":"John Dougall",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Greenock",
+    "Sex":"Male",
+    "Age":"53",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used hair as a charm to cure.  The objects were used to heal. Used rowan tree belt wrapped nine times to cure ?frigidity. Used nail clippings, eye brow hair and hairs from the crown of the head and half a penny wrapped in cloth. Told witness to sow some milk in with his corn on Beltane day. Told another man to boil a stirck (young cow) and burn the rest of the bones to ashes and then bury them. Dougall said this would cure the sturdie (scrappie) disease in his beasts."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.05,55.83333333 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3248",
+    "FullName":"Jonet Morisone",
+    "Case_date":"5/2/1662",
+    "Res_settlement":"Rothesay",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used herbs to heal. Said the devil told her the fairies took John Glas's child's life, and that they intended to take Glas's life as well. Said that an illness was caused by the fairies - 'blasted by the fairies'. Asked what the difference was between shooting (elfshot) and blasting. Said there was no cure for shot and that blasting was a whirlwind that the fairies raised about their victim but that it could be healed with herbs or charms."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.3726,55.5939 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2277",
+    "FullName":"Gilbert Robisone",
+    "Case_date":"29/2/1644",
+    "Res_settlement":"Drumelzier",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used nail trimmings which were to be placed between the bark and rind of a tree. Robisone appears to have agreed to cure diseased person in return for some clothes. Used nail parings to transfer sickness."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.627777777,55.46388889 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/28",
+    "FullName":"Janet Boyman",
+    "Case_date":"29/12/1572",
+    "Res_settlement":"Ayr",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used shirt for diagnosis.  Brought the shirt to an elvish well.  She charged the spirit in the name of the father, the son, king Arthur and queen Elspeth to remove the illness or take the sick man to them.  She couldn't do a cure because it was past Halloween.  Predicted the death of an infant because she got a blast of evil wind.  She learned her curing from a woman in the Potterrow who had once cured her.  She started her prayer with 'Blist Benedicite'.  After she washed her hands at a holy well, St. Leonards, there came to her a man of our good neighbours.  Predicted that the Regent would die.  She bore five bairns while subject to the fairy for seven years and felt no pain."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5157,55.8834 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2883",
+    "FullName":"Barbria Parish",
+    "Case_date":"30/5/1647",
+    "Res_settlement":"Livingston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used term 'good neighbours' who wore green kirtalls. The fairies wanted a nurse for one of their own offspring. BP told them to go to a neighbour's house but the woman would not go with them and so her child was killed. This may indicate a changeling type motif but it is not mentioned specifically."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2256",
+    "FullName":"James Knarstoun",
+    "Case_date":"28/2/1633",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used three hot stones (one for the ebb, one for the hill and one for the kirk yard) and placed them in the lintel of the door then said words as a cure.  Water taken from St. Mary's well at midnight.  Used molten lead or wax put in cold water to divine.  Used an oil made from meiklewort (deadly nightshade) to cure."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.5157,55.8834 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2882",
+    "FullName":"Magaret Alexander",
+    "Case_date":"22/4/1647",
+    "Res_settlement":"Livingston",
+    "Sex":"Female",
+    "Age":"55",
+    "Occupation":"Unknown",
+    "FolkNotes":"Used water from St Mungo's well to heal her father and spoke verse/charm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78332,55.95612 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/166",
+    "FullName":"Alexander Hammiltoun",
+    "Case_date":"22/1/1630",
+    "Res_settlement":"Haddington",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Vagabond",
+    "FolkNotes":"Using ulie (oil) spek cammomyle and heart creishc (creesh = fat, grease or tallow).  Lots of information about healing techniques in his dittay (JC26/9).  He supposedly tried to destroy Manderston by leaving a dead foul in his barn which killed lots of horses.  Used cats and birds for healing.  Instructed a woman to cure her husband by rubbing him with a wet cloth."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.552069444,55.86696944 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/743",
+    "FullName":"Isobell Houston",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Houston",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Very interesting description of a sympathetic magic ritual.  She was accused of holding a leather strap as if she were milking a cow.  This action supposedly magically took the cows milk from her neighbour, thereby increasing her output and destroying her neighbours milk/dairy output."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.3083,55.8615 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/747",
+    "FullName":"Jean Gilmore",
+    "Case_date":"12/3/1700",
+    "Res_settlement":"Govan",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"was accused of using a frog at the threshold for a charm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.887,55.638 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2231",
+    "FullName":"Bessie Smythe",
+    "Case_date":"21/11/1623",
+    "Res_settlement":"Lesmahagow",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Wayburn leaf also known as plantain was applied to relieve pain."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.681777,57.133913 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2163",
+    "FullName":"Issobell Richie",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Cloak",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Weighed pillows that, when given back to the person, caused them to die. Given a belt from Spaldarge (as a sign of her pact with the devil) which she used to cause the death of several people. Also used a stick tied with red thread, which she used to remove bewitchment. Claimed that she predicted a woman would have only boys. She had 6 but they did not live. Gave a pot filled with 'devylische confectionis' to one woman, who later died."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3,59 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1284",
+    "FullName":"Jonet Reid",
+    "Case_date":"22/7/1643",
+    "Res_settlement":"Orkney Islands",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"When drying corn with a hot stone she was heard to say 'I am drying this corne to the devill', then the stone broke.  She cured a man who was plagued by the ghost of his dead first wife.  A weird little ritual, she told a man to put a piece of moss on the end of a stick to protect his crops.  A man was troubled by apparitions of his first wife, she told him to go to her grave and charge her to 'ly still'.  Cured the 'boneshaw', maybe boneshot.  She used nine blue stones that she put in water. Cured the hart cake."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.915091,55.878235 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/691",
+    "FullName":"Isobell Eliot",
+    "Case_date":"20/9/1678",
+    "Res_settlement":"Paiston",
+    "Sex":"Female",
+    "Age":"27",
+    "Occupation":"Servant",
+    "FolkNotes":"While in the shape of bees she and Marion Veitch carried the poison used to kill Veitch's grandson in their 'cleuchis, wings and mouth'.  She claimed that Helen Laying (her master) kept her from church and had her carry water from a well instead."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68667,57.1281 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/3033",
+    "FullName":"Margerat Bane",
+    "Case_date":"24/4/1597",
+    "Res_settlement":"Lumphanan",
+    "Sex":"Female",
+    "Age":"55",
+    "Occupation":"Midwife",
+    "FolkNotes":"With her sister Spaldarge, she seems to have had a vision of a headless man, which they claimed predicted the death of a man. Seen paddling in loch on Nuris Day, throwing water and erd and stane (ritual of land ownership) over her shoulders. Took fire peat from one man's house to her own house and later daughter/son (?) of the man died. Predicted the birth of a child. Did not exchange any greeting with a man who later died. Touched boy on both cheeks, later he died."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.051666666,54.83527778 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/791",
+    "FullName":"Janet McGown",
+    "Case_date":"5/4/1659",
+    "Res_settlement":"Borgue- Dumfries and Galloway",
+    "Sex":"Female",
+    "Age":"37",
+    "Occupation":"Unknown",
+    "FolkNotes":"Withershins.  She had a quarrel with a man who accused her of leaving a black cleise and three blue yearns under his milking cow (a charm).  A man who was to confiscate their things found a black toad in his bed and died."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.608911111,56.01681111 ]
+    },
+    "properties": {
+    "CaseRef":"C/JO/2846",
+    "FullName":"Jonet Ker",
+    "Case_date":"29/2/1632",
+    "Res_settlement":"Barrowstouness",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Witness told presbytery that Ker had appeared to her while she was in her bed with her husband and had abused her. The witness then took an illness and later on her knees asked Ker three times for her health. Ker denied all the accusations.  Later entry in the presbytery minutes about another woman (Christian Adie) who was in trouble for having requested her health from Ker."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.655277777,56.73 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/1856",
+    "FullName":"Catharin Skair",
+    "Case_date":"11/4/1650",
+    "Res_settlement":"Brechin",
+    "Sex":"Female",
+    "Age":"41",
+    "Occupation":"Unknown",
+    "FolkNotes":"Witnesses claim they saw her going to a well and collecting water, which she cast on her rigg. She spoke nothing on her way and forbade witness to follow her to the well. Cursed witness who argued with her son, he then took ill."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.8,56.11666667 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/291",
+    "FullName":"Kathrine Remy",
+    "Case_date":"23/6/1658",
+    "Res_settlement":"Alloa",
+    "Sex":"Female",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Woman in green waiscoat with a black pot ?fairy.  Joined the devil during Lenten."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.12538,56.12557 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/2270",
+    "FullName":"Cristian Wilson",
+    "Case_date":"4/10/1638",
+    "Res_settlement":"Dysart",
+    "Sex":"Female",
+    "Age":"50",
+    "Occupation":"Unknown",
+    "FolkNotes":"Woman witness reported that she heard a woman advise Margaret Bannantyne to sew something in her bodice and then she would want for nothing. No other details."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2,56.25 ]
+    },
+    "properties": {
+    "CaseRef":"C/EGD/157",
+    "FullName":"Thomas Greave",
+    "Case_date":"1/8/1623",
+    "Res_settlement":"Fife",
+    "Sex":"Male",
+    "Age":"Unknown",
+    "Occupation":"Unknown",
+    "FolkNotes":"Words and deeds (signs and troles?).  Use of unguents"
+    }
+  }
+]
+}

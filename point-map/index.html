@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+  <title>Accused Witches with Fairy Elements involved in Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <style type="text/css">
+  #map { height: 900px; }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</head>
+  <div id="map"></div>
+  <script>
+
+  var terrain = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png'),
+  toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png');
+
+  var map = L.map('map', {
+    center: [56.927013, -4.244758],
+    zoom: 7,
+    layers: [terrain, toner]
+  });
+
+  var baseMaps = {
+    "Terrain": terrain,
+    "Toner": toner
+  };
+
+  L.control.layers(baseMaps).addTo(map);
+
+  function onEachFeature(feature, layer) {
+    console.log(feature);
+    var customPopup = "<b><i>" + feature.properties.FullName + "</i></b>" + "<br>"
+    + feature.properties.Case_date + "<br>"
+    + feature.properties.Res_settlement + "<br>"
+    + "<b>" + "Sex: " + "</b>" + feature.properties.Sex + "<br>"
+    + "<b>" + "Age: " + "</b>" + feature.properties.Age + "<br>"
+    + "<b>" + "Occupation: " + "</b>" + feature.properties.Occupation + "<br>"
+    + "<b>" + "Case Features: " + "</b>" + feature.properties.FolkNotes + "<br>"
+    + "<br>"
+    + "<a href=" + "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.caserecord&caseref=" + feature.properties.CaseRef + "&search_string=date%3D%26enddate%3D%26char%3Dany%26char%5Fop%3DAND%26ritual%5Fobject%3Dany%26rit%5Fop%3DAND%26calendar%5Fcustom%3Dany%26cal%5Fop%3DAND%26non%5Fnatural%5Fbeing%3Dany%26nnb%5Fop%3DAND%26demonic%5Fpact%3Dany%26pact%5Fop%3DAND" + "><i><b>Full Entry</b></i></a>";
+    layer.bindPopup(customPopup);
+  }
+
+  $.getJSON('fairy_witches_data.geojson', function(data) {
+    console.log(data);
+
+    L.geoJson(data, {
+      pointToLayer: function(feature, latlng) {
+        console.log(latlng, feature);
+
+        var smallIcon = new L.Icon({
+          iconUrl: 'icons/' + feature.properties.Sex + '.png',
+          iconSize:    [42, 57.3],
+          iconAnchor:  [12, 41],
+          popupAnchor: [1, -34]
+        });
+
+        return L.marker(latlng, {
+          icon: smallIcon
+        });
+      },
+      onEachFeature: onEachFeature
+    }).addTo(map);
+  });
+  </script>
+</body>
+</html>
